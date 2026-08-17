@@ -1,0 +1,21 @@
+# Claude Code — keep local for now
+CLAUDE.md
+.claude/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Scratch / drafts
+*.tmp
+*.bak
+draft-*.md

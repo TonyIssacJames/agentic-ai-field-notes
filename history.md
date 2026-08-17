@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 8 artifacts added so far
+> ## 📈 10 artifacts added so far
 >
-> _Last added: MTEB Leaderboard — 2026-08-18_
+> _Last added: Harness Engineering — 2026-08-18_
 
 ---
 
@@ -20,11 +20,14 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 6 | [Principles of Building AI Agents — Sam Bhagwat](https://www.amazon.in/Principles-Building-Agents-Sam-Bhagwat-ebook/dp/B0DYB2QCS7) | Book | AI / LLM | 2026-08-18 |
 | 7 | [ROI Measurement for Agentic AI Products](https://www.youtube.com/watch?v=ff3W8SM4ScA&t=319s) | Video | AI / LLM | 2026-08-18 |
 | 8 | [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | Benchmark | AI / LLM | 2026-08-18 |
+| 9 | [Software Mansion Agentic Engineering Guide](https://agentic-engineering.swmansion.com/) | Blog | AI / LLM | 2026-08-18 |
+| 10 | [Harness Engineering — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/harness-engineering/) | Article | AI / LLM | 2026-08-18 |
 
 ---
 
 ## How to add a row
 
+0. **Check it isn't already here** — Ctrl+F this page for the distinctive part of the URL (the last path segment, the YouTube `v=` ID, the Amazon ASIN). Search that, *not* the domain: two articles from the same blog are not duplicates.
 1. Add the link to its normal page first — posts to [articles.md](articles.md), recurring authors to [blogs.md](blogs.md), videos to [youtube.md](youtube.md), books to [books.md](books.md), repositories to [repos.md](repos.md), leaderboards to [benchmarks.md](benchmarks.md), everything else to [links.md](links.md).
 2. Append one row at the **bottom** of the table above, with the next number.
 3. Bump the count in the banner and update _Last added_.
@@ -37,7 +40,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 
 ## Milestones
 
-- [ ] 10 artifacts
+- [x] 10 artifacts 🎉 _(2026-08-18)_
 - [ ] 25 artifacts
 - [ ] 50 artifacts
 - [ ] 100 artifacts

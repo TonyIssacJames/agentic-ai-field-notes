@@ -5,6 +5,7 @@ Blogs and authors worth following — recurring sources, as opposed to one-off [
 ## AI / LLM
 
 - [Renu's Blog (arshren)](https://arshren.medium.com/) — Applied AI, LLMs, agents and evals on Medium
+- [Software Mansion Agentic Engineering Guide](https://agentic-engineering.swmansion.com/) — Practices for working *with* coding agents on real projects while keeping code quality
 
 ## GPU / Performance
 

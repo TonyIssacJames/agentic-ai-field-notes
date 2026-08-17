@@ -18,9 +18,11 @@ Notes and references related to AI, LLMs, agents, RAG, tooling, and applied AI.
 ## Articles
 - [AI Evals: Art and Science of Building Reliable AI Apps](https://arshren.medium.com/ai-evals-art-and-science-of-building-reliable-ai-apps-11dbfba2a343) — Evaluating LLM apps for reliability
 - [Prompting Techniques — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/prompting-techniques/) — Steering coding agents: scoping, mid-run correction, multimodal input
+- [Harness Engineering — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/harness-engineering/) — Shaping the agent's environment: config files, skills, MCP servers, subagents, hooks
 
 ## Blogs
 - [Renu's Blog (arshren)](https://arshren.medium.com/) — Applied AI, LLMs, agents and evals
+- [Software Mansion Agentic Engineering Guide](https://agentic-engineering.swmansion.com/) — Working with coding agents while keeping code quality
 
 ## Videos
 - [ROI Measurement for Agentic AI Products](https://www.youtube.com/watch?v=ff3W8SM4ScA&t=319s) — Measuring return on agent deployments

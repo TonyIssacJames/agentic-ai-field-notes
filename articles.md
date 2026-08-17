@@ -6,6 +6,7 @@ Articles, blog posts, Medium posts, documentation pages, and papers worth readin
 
 - [ ] [AI Evals: Art and Science of Building Reliable AI Apps](https://arshren.medium.com/ai-evals-art-and-science-of-building-reliable-ai-apps-11dbfba2a343) — Evaluating LLM apps for reliability; from [Renu's blog](blogs.md)
 - [ ] [Prompting Techniques — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/prompting-techniques/) — Software Mansion's tactics for steering coding agents: scoping tasks upfront, correcting mid-run, multimodal input
+- [ ] [Harness Engineering — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/harness-engineering/) — Improving agent output by shaping its environment (config files, skills, MCP servers, subagents, hooks) instead of only the prompt
 - [ ] [Article title](https://example.com) — Why I saved it
 
 ## Currently Reading

@@ -7,8 +7,11 @@ A personal collection of useful technical material, references, videos, reposito
 - [📥 Inbox](inbox.md)
 - [🔗 Useful Links](links.md)
 - [📰 Articles](articles.md)
+- [✍️ Blogs](blogs.md)
 - [🎥 YouTube Videos](youtube.md)
+- [📚 Books](books.md)
 - [⭐ Great Repositories](repos.md)
+- [🏁 Benchmarks & Leaderboards](benchmarks.md)
 - [🔑 Keywords & Concepts](keywords.md)
 - [🧠 Topics](topics/README.md)
 - [📈 History](history.md) — everything added, in order

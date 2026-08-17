@@ -4,6 +4,7 @@ Videos worth watching, revisiting, or keeping as references.
 
 ## Watch Later
 
+- [ ] [ROI Measurement for Agentic AI Products](https://www.youtube.com/watch?v=ff3W8SM4ScA&t=319s) — Proving business value of agent deployments; how to measure return when systems are non-deterministic
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

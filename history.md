@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 10 artifacts added so far
+> ## 📈 16 artifacts added so far
 >
-> _Last added: Harness Engineering — 2026-08-18_
+> _Last added: Advanced RAG With Pinecone (ADaSci) — 2026-08-19_
 
 ---
 
@@ -22,17 +22,23 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 8 | [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | Benchmark | AI / LLM | 2026-08-18 |
 | 9 | [Software Mansion Agentic Engineering Guide](https://agentic-engineering.swmansion.com/) | Blog | AI / LLM | 2026-08-18 |
 | 10 | [Harness Engineering — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/harness-engineering/) | Article | AI / LLM | 2026-08-18 |
+| 11 | [Advanced RAG with Vector Databases and Retrievers — IBM](https://www.coursera.org/learn/advanced-rag-with-vector-databases-and-retrievers) | Course | AI / LLM | 2026-08-19 |
+| 12 | [Advanced Retrieval Augmented Generation for Production — LlamaIndex × Activeloop](https://www.llamaindex.ai/blog/join-thousands-in-our-free-advanced-rag-certification-created-with-activeloop-ad63f24f27bb) | Course | AI / LLM | 2026-08-19 |
+| 13 | [Advanced RAG — CampusX](https://learnwith.campusx.in/courses/Advanced-RAG-69d8037290a183fe36833265#tableofcontents) | Course | AI / LLM | 2026-08-19 |
+| 14 | [Advanced RAG Techniques: Choosing the Right Approach — Educative](https://www.educative.io/courses/advanced-rag-techniques) | Course | AI / LLM | 2026-08-19 |
+| 15 | [Retrieval Augmented Generation (RAG) — DeepLearning.AI](https://www.deeplearning.ai/courses/retrieval-augmented-generation) | Course | AI / LLM | 2026-08-19 |
+| 16 | [Advanced RAG With Pinecone — ADaSci](https://adasci.org/courses/advanced-rag-with-pinecone) | Course | AI / LLM | 2026-08-19 |
 
 ---
 
 ## How to add a row
 
 0. **Check it isn't already here** — Ctrl+F this page for the distinctive part of the URL (the last path segment, the YouTube `v=` ID, the Amazon ASIN). Search that, *not* the domain: two articles from the same blog are not duplicates.
-1. Add the link to its normal page first — posts to [articles.md](articles.md), recurring authors to [blogs.md](blogs.md), videos to [youtube.md](youtube.md), books to [books.md](books.md), repositories to [repos.md](repos.md), leaderboards to [benchmarks.md](benchmarks.md), everything else to [links.md](links.md).
+1. Add the link to its normal page first — posts to [articles.md](articles.md), recurring authors to [blogs.md](blogs.md), videos to [youtube.md](youtube.md), books to [books.md](books.md), courses to [courses.md](courses.md), repositories to [repos.md](repos.md), leaderboards to [benchmarks.md](benchmarks.md), everything else to [links.md](links.md).
 2. Append one row at the **bottom** of the table above, with the next number.
 3. Bump the count in the banner and update _Last added_.
 
-**Type** — `Article`, `Blog`, `Video`, `Book`, `Repo`, `Benchmark`, `Doc`, `Paper`, `Tool`
+**Type** — `Article`, `Blog`, `Video`, `Book`, `Course`, `Repo`, `Benchmark`, `Doc`, `Paper`, `Tool`
 **Topic** — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture`, `Misc`
 **Date** — `YYYY-MM-DD`
 

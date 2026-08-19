@@ -10,6 +10,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [✍️ Blogs](blogs.md)
 - [🎥 YouTube Videos](youtube.md)
 - [📚 Books](books.md)
+- [🎓 Courses](courses.md)
 - [⭐ Great Repositories](repos.md)
 - [🏁 Benchmarks & Leaderboards](benchmarks.md)
 - [🔑 Keywords & Concepts](keywords.md)

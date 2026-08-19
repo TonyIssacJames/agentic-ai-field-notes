@@ -32,6 +32,16 @@ Notes and references related to AI, LLMs, agents, RAG, tooling, and applied AI.
 - [Evaluating AI Systems — Alex Merced](https://www.amazon.in/Evaluating-AI-Systems-Testing-Agentic-ebook/dp/B0GSRQ9Z2B) — Testing LLMs, RAG and agents
 - [Principles of Building AI Agents — Sam Bhagwat](https://www.amazon.in/Principles-Building-Agents-Sam-Bhagwat-ebook/dp/B0DYB2QCS7) — Prompts, tools, memory, workflows, RAG, evals
 
+## Courses
+
+### RAG
+- [Advanced RAG with Vector Databases and Retrievers — IBM](https://www.coursera.org/learn/advanced-rag-with-vector-databases-and-retrievers) — FAISS, Chroma DB, LangChain and LlamaIndex retrievers
+- [Advanced Retrieval Augmented Generation for Production — LlamaIndex × Activeloop](https://www.llamaindex.ai/blog/join-thousands-in-our-free-advanced-rag-certification-created-with-activeloop-ad63f24f27bb) — Free certification; LlamaIndex and Deep Lake, 7 projects
+- [Advanced RAG — CampusX](https://learnwith.campusx.in/courses/Advanced-RAG-69d8037290a183fe36833265#tableofcontents) — Production-grade RAG with LangChain, LangGraph, vector DBs
+- [Advanced RAG Techniques: Choosing the Right Approach — Educative](https://www.educative.io/courses/advanced-rag-techniques) — Pre-retrieval indexing and query formulation; RAG-Fusion and cross-encoder reranking
+- [Retrieval Augmented Generation (RAG) — DeepLearning.AI](https://www.deeplearning.ai/courses/retrieval-augmented-generation) — Zain Hasan; ~26 h, 5 modules, 49 lessons — the most complete of these
+- [Advanced RAG With Pinecone — ADaSci](https://adasci.org/courses/advanced-rag-with-pinecone) — RAG on the Pinecone managed vector database
+
 ## Benchmarks
 - [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) — Ranks embedding models across retrieval, classification, clustering, reranking
 

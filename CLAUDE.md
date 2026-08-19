@@ -17,7 +17,7 @@ The owner adds material continuously and commits often. Most requests will be ab
 
 Two axes cross each other, and every page is one cell in that grid:
 
-- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
+- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
 
 The same four subject headings — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture` — repeat as `##`/`###` sections inside the root type pages. Keep that heading set and its wording consistent; it is what makes the grid navigable. `links.md` and `repos.md` add a `Tools` / `Tools / Documentation` section, and `links.md` a `Miscellaneous` one.
@@ -77,7 +77,9 @@ grep -oE '\]\(https?://[^)]+\)' history.md | sed -E 's/^\]\(//; s/\)$//' |
 
 - **Never display a raw URL.** Link text is a short human-readable label — the title, plus the author or source where it disambiguates (`[Renu's Blog (arshren)](…)`, `[AI Agents in Action — Ch. 10, Agent reasoning and evaluation](…)`). The owner wants something clickable and recognizable at a glance, never the URL itself, and never a bare `https://…` in body text.
 - **Get the real title.** Do not infer a title from a URL slug. Fetch the page (or search for it) and use the actual title; if it can't be retrieved, say so rather than inventing one. Descriptions say what the thing *is* or why it's worth returning to — not a restatement of the title.
-- **A new material type means a new root page**, not a subsection of an existing one — `books.md`, `blogs.md` and `benchmarks.md` were each created this way. Give it the same four subject headings, a footer back-link, and an entry in the README's Quick Access list.
+- **A new material type means a new root page**, not a subsection of an existing one — `books.md`, `blogs.md`, `benchmarks.md` and `courses.md` were each created this way. Give it the same four subject headings, a footer back-link, and an entry in the README's Quick Access list.
+- **Narrower groupings go under a subject heading, not beside it.** `courses.md` has `### RAG` nested inside `## AI / LLM`. The four subject headings stay the top level on every page; a theme like RAG, Agents or Evals is an `###` within one of them.
+- **Strip tracking parameters from a URL before saving it** — `utm_*`, `aff`, `hsa_*`, `ref`, `fbclid`, `si`. Keep meaningful ones (YouTube `v=`, a `#tableofcontents` anchor the owner deliberately linked to).
 - **Entry format is per-page.** Match the placeholder rows already in the file being edited rather than importing a format from another page. `links.md` / `youtube.md` use `- [Title](url) — Short description`; `repos.md` uses a multi-line block with bold `**Why useful:**` / `**Look at:**` labels (two trailing spaces produce the line breaks — preserve them); `keywords.md` uses `- **Term** — notes`.
 - **Reading/watching lifecycle.** `articles.md` and `youtube.md` are staged: `To Read` / `Watch Later` (unchecked `- [ ]`) → `Currently Reading` / `Currently Watching` (with Notes / Key idea / Follow-up sub-bullets) → `Worth Keeping` (permanent, filed by subject) → `Finished` (checked `- [x]` with the main takeaway). Move entries between stages instead of duplicating them.
 - **Placeholder rows** (`[Example](https://example.com)`, `[Video title](https://youtube.com/)`, `owner/repository`, `Add notes`, `- [ ] Keyword`) are templates showing the shape of an entry. Replace them when a section gets its first real entry; leave the last one in an otherwise-empty section so the format stays visible.

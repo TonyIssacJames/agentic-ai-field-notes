@@ -42,6 +42,12 @@ Notes and references related to AI, LLMs, agents, RAG, tooling, and applied AI.
 - [Retrieval Augmented Generation (RAG) — DeepLearning.AI](https://www.deeplearning.ai/courses/retrieval-augmented-generation) — Zain Hasan; ~26 h, 5 modules, 49 lessons — the most complete of these
 - [Advanced RAG With Pinecone — ADaSci](https://adasci.org/courses/advanced-rag-with-pinecone) — RAG on the Pinecone managed vector database
 
+## Agentic Tools & Skills
+
+See [Agentic Tools & Skills](../../agentic-tools.md) for the full page.
+
+- [NVIDIA Nsight AI](https://developer.nvidia.com/nsight-ai) — CUDA MCP server exposing live CUDA docs and profiling guidance to coding agents
+
 ## Benchmarks
 - [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) — Ranks embedding models across retrieval, classification, clustering, reranking
 

@@ -14,7 +14,7 @@ Notes and references related to GPU architecture, programming, profiling, and pe
 ## Useful Material
 
 ### Links
-- 
+- [NVIDIA Nsight AI](https://developer.nvidia.com/nsight-ai) — AI-assisted CUDA development; CUDA MCP server and Nsight Compute profiling guidance for coding agents (see [Agentic Tools](../../agentic-tools.md))
 
 ### Articles
 - 

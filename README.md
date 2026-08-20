@@ -11,6 +11,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [🎥 YouTube Videos](youtube.md)
 - [📚 Books](books.md)
 - [🎓 Courses](courses.md)
+- [📖 Tutorials](tutorials.md)
 - [🤖 Agentic Tools & Skills](agentic-tools.md)
 - [⭐ Great Repositories](repos.md)
 - [🏁 Benchmarks & Leaderboards](benchmarks.md)

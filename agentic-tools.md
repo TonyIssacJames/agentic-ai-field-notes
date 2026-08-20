@@ -14,6 +14,8 @@ Grouped by **what kind of thing it is**, since almost everything here is AI/LLM 
 
 ## Skills
 
+New to the format? See [how to create a skill](tutorials.md) in Tutorials.
+
 - [Skill name](https://example.com) — What it does
 
 ## IDE Extensions & Copilots

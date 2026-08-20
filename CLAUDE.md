@@ -17,7 +17,7 @@ The owner adds material continuously and commits often. Most requests will be ab
 
 Two axes cross each other, and every page is one cell in that grid:
 
-- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `agentic-tools.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
+- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `agentic-tools.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
 
 The same four subject headings — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture` — repeat as `##`/`###` sections inside the root type pages. Keep that heading set and its wording consistent; it is what makes the grid navigable. `links.md` and `repos.md` add a `Tools` / `Tools / Documentation` section, and `links.md` a `Miscellaneous` one.

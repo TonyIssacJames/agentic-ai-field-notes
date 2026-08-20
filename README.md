@@ -5,6 +5,7 @@ A personal collection of useful technical material, references, videos, reposito
 ## Quick Access
 
 - [📥 Inbox](inbox.md)
+- [📝 Notes](notes.md)
 - [🔗 Useful Links](links.md)
 - [📰 Articles](articles.md)
 - [✍️ Blogs](blogs.md)

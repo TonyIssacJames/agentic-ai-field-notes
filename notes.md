@@ -2,7 +2,7 @@
 
 Random notes and things worth remembering. Newest first.
 
-These are my own writing, not collected links — so they do **not** appear in [history.md](history.md) and do not count toward the artifact total.
+These are my own writing, not collected links — so they do **not** appear in [history.md](history.md) and do not count toward the artifact total. Quotes live separately in [motivational_quotes.md](motivational_quotes.md).
 
 ---
 

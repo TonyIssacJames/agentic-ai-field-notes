@@ -17,7 +17,7 @@ The owner adds material continuously and commits often. Most requests will be ab
 
 Two axes cross each other, and every page is one cell in that grid:
 
-- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `agentic-tools.md`, `notes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
+- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
 
 The same four subject headings — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture` — repeat as `##`/`###` sections inside the root type pages. Keep that heading set and its wording consistent; it is what makes the grid navigable. `links.md` and `repos.md` add a `Tools` / `Tools / Documentation` section, and `links.md` a `Miscellaneous` one.
@@ -42,11 +42,13 @@ Adding a link is therefore always a **three-part edit**, and it is not done unti
 
 Never renumber or reorder existing rows; the log is append-only. **Check for a duplicate before appending** (below). Use `YYYY-MM-DD` dates and the `Type` / `Topic` vocabularies listed in that file. When adding a batch, append them all, then bump the count once by the batch size. If a milestone in that file is reached, tick its checkbox.
 
-### `notes.md` — the owner's own writing
+### `notes.md` and `motivational_quotes.md` — the owner's own writing
 
 `notes.md` holds free-form notes: observations, things worth remembering, context about a link that does not fit its one-line description. Newest entry at the top, each under a `## YYYY-MM-DD — short title` heading.
 
-Notes are **not artifacts**: they never get a `history.md` row and never bump the count. That number means "links saved", and keeping notes out of it is what keeps `history.md` a clean one-row-per-URL index for duplicate detection.
+`motivational_quotes.md` is the same shape — dated `##` entries, newest first, each a blockquote — but holds lines worth rereading rather than technical notes. Keep the two separate; a quote is not a note.
+
+Neither page produces artifacts: entries never get a `history.md` row and never bump the count. That number means "links saved", and keeping notes out of it is what keeps `history.md` a clean one-row-per-URL index for duplicate detection.
 
 When a note is about a specific saved link, add a `([my notes](notes.md))` pointer to that entry so the two are connected in both directions. `inbox.md` **Quick Notes** stays what it is — a scratch buffer to be emptied; a note worth keeping graduates to `notes.md`.
 

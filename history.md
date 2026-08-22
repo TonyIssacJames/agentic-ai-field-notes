@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 18 artifacts added so far
+> ## 📈 19 artifacts added so far
 >
-> _Last added: Agent Skills — how to create a skill — 2026-08-21_
+> _Last added: Ultraprompting: How The World's Top Prompt Engineer Triggers Thousands Of Agents With One Prompt — 2026-08-22_
 
 ---
 
@@ -30,6 +30,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 16 | [Advanced RAG With Pinecone — ADaSci](https://adasci.org/courses/advanced-rag-with-pinecone) | Course | AI / LLM | 2026-08-19 |
 | 17 | [NVIDIA Nsight AI](https://developer.nvidia.com/nsight-ai) | Tool | GPU / Performance | 2026-08-21 |
 | 18 | [Agent Skills — how to create a skill](https://agentskills.io/home#adoption) | Tutorial | AI / LLM | 2026-08-21 |
+| 19 | [Ultraprompting: How The World's Top Prompt Engineer Triggers Thousands Of Agents With One Prompt](https://blockbuster.thoughtleader.school/p/ultraprompting-how-the-worlds-top) | Article | AI / LLM | 2026-08-22 |
 
 ---
 

@@ -6,6 +6,12 @@ Like [notes.md](notes.md), these are not collected links — they do **not** get
 
 ---
 
+## 2026-08-23 — Just existing
+
+> You work that job, you pay your rent, you come home for Christmas. That's just existing.
+
+---
+
 ## 2026-08-22 — If it was easy
 
 > If it was easy, everyone would do it.

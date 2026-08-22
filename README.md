@@ -7,6 +7,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [📥 Inbox](inbox.md)
 - [📝 Notes](notes.md)
 - [✨ Motivational Quotes](motivational_quotes.md)
+- [✍️ My Writings](my_writings/README.md)
 - [🔗 Useful Links](links.md)
 - [📰 Articles](articles.md)
 - [✍️ Blogs](blogs.md)

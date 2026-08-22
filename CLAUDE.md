@@ -19,6 +19,7 @@ Two axes cross each other, and every page is one cell in that grid:
 
 - **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
+- **The owner's own writing**: `notes.md` (short), `motivational_quotes.md` (quotes), `my_writings/` (long-form pieces)
 
 The same four subject headings — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture` — repeat as `##`/`###` sections inside the root type pages. Keep that heading set and its wording consistent; it is what makes the grid navigable. `links.md` and `repos.md` add a `Tools` / `Tools / Documentation` section, and `links.md` a `Miscellaneous` one.
 
@@ -41,6 +42,16 @@ Adding a link is therefore always a **three-part edit**, and it is not done unti
 3. The banner near the top of `history.md` — bump `N artifacts added so far` **and** set `_Last added:_` to the newest entry.
 
 Never renumber or reorder existing rows; the log is append-only. **Check for a duplicate before appending** (below). Use `YYYY-MM-DD` dates and the `Type` / `Topic` vocabularies listed in that file. When adding a batch, append them all, then bump the count once by the batch size. If a milestone in that file is reached, tick its checkbox.
+
+### `my_writings/` — long-form pieces the owner wrote
+
+One file per piece at `my_writings/<slug>.md`, indexed by the table in `my_writings/README.md` (which GitHub renders on clicking the folder). The index carries its own `N pieces written so far` banner — bump it when adding a piece, exactly as with `history.md`, but the two counters are independent.
+
+**Do not cross-link pieces into `topics/`.** The owner decided against it: with few pieces it adds empty `## My Writing` scaffolding to topic pages that are meant to hold collected material, and the index table is already the single way in. Revisit only if the owner asks.
+
+Footer for a piece: `[← My Writings](README.md) | [← Home](../README.md)`.
+
+Pieces never get a `history.md` row — they have no URL, so the duplicate sweep cannot use them, and the artifact count means "links saved".
 
 ### `notes.md` and `motivational_quotes.md` — the owner's own writing
 

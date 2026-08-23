@@ -8,6 +8,7 @@ Articles, blog posts, Medium posts, documentation pages, and papers worth readin
 - [ ] [Prompting Techniques — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/prompting-techniques/) — Software Mansion's tactics for steering coding agents: scoping tasks upfront, correcting mid-run, multimodal input
 - [ ] [Harness Engineering — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/harness-engineering/) — Improving agent output by shaping its environment (config files, skills, MCP servers, subagents, hooks) instead of only the prompt
 - [ ] [Ultraprompting: How The World's Top Prompt Engineer Triggers Thousands Of Agents With One Prompt](https://blockbuster.thoughtleader.school/p/ultraprompting-how-the-worlds-top) — Michael Simmons on how top users like Boris Cherny get multi-week outcomes from single, well-structured prompts (dynamic workflows, clear goals, feedback loops)
+- [ ] [Improving skill-creator: Test, measure, and refine Agent Skills](https://www.linkedin.com/pulse/improving-skill-creator-test-measure-refine-agent-skills-paul-petri-gogxf/) — Paul Petri builds a multi-agent workflow with six specialized agents, evaluated with Anthropic's eval tools (100% quality with the skill vs. 73% without); frames a way to measure capability uplift vs. encoded preference
 - [ ] [Article title](https://example.com) — Why I saved it
 
 ## Currently Reading

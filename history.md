@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 23 artifacts added so far
+> ## 📈 28 artifacts added so far
 >
-> _Last added: Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind — 2026-08-23_
+> _Last added: Building Great Agent Skills: The Missing Manual — 2026-08-23_
 
 ---
 
@@ -35,6 +35,11 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 21 | [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) | Article | AI / LLM | 2026-08-23 |
 | 22 | [How We Build Effective Agents: Barry Zhang, Anthropic](https://www.youtube.com/watch?v=D7_ipDqhtwk) | Video | AI / LLM | 2026-08-23 |
 | 23 | [Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind](https://www.youtube.com/watch?v=0vphxNt4wyk) | Video | AI / LLM | 2026-08-23 |
+| 24 | [Anthropic's CCA Exam as a Field-Guide for Agentic Engineering — Frank Coyle, UC Berkeley](https://www.youtube.com/watch?v=Z-c11pV_uvU) | Video | AI / LLM | 2026-08-23 |
+| 25 | [Coding Agents Don't Scale Themselves. Neither Do Your Teams. — Patrick Debois, Tessl](https://www.youtube.com/watch?v=zCJtYuqwm7E) | Video | AI / LLM | 2026-08-23 |
+| 26 | [Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber](https://www.youtube.com/watch?v=31GUkCBD-Uc) | Video | AI / LLM | 2026-08-23 |
+| 27 | [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley](https://www.youtube.com/watch?v=Sir59K8ZDPU) | Video | AI / LLM | 2026-08-23 |
+| 28 | [Building Great Agent Skills: The Missing Manual](https://www.youtube.com/watch?v=UNzCG3lw6O0) | Video | AI / LLM | 2026-08-23 |
 
 ---
 

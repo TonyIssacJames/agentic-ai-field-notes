@@ -6,6 +6,7 @@ Videos worth watching, revisiting, or keeping as references.
 
 - [ ] [ROI Measurement for Agentic AI Products](https://www.youtube.com/watch?v=ff3W8SM4ScA&t=319s) — Proving business value of agent deployments; how to measure return when systems are non-deterministic
 - [ ] [How We Build Effective Agents: Barry Zhang, Anthropic](https://www.youtube.com/watch?v=D7_ipDqhtwk) — Anthropic's Barry Zhang on their approach to designing effective AI agents
+- [ ] [Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind](https://www.youtube.com/watch?v=0vphxNt4wyk) — [must watch] Why shipping agent skills without an evaluation framework first is risky
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

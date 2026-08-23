@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 20 artifacts added so far
+> ## 📈 22 artifacts added so far
 >
-> _Last added: Improving skill-creator: Test, measure, and refine Agent Skills — 2026-08-23_
+> _Last added: How We Build Effective Agents: Barry Zhang, Anthropic — 2026-08-23_
 
 ---
 
@@ -32,6 +32,8 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 18 | [Agent Skills — how to create a skill](https://agentskills.io/home#adoption) | Tutorial | AI / LLM | 2026-08-21 |
 | 19 | [Ultraprompting: How The World's Top Prompt Engineer Triggers Thousands Of Agents With One Prompt](https://blockbuster.thoughtleader.school/p/ultraprompting-how-the-worlds-top) | Article | AI / LLM | 2026-08-22 |
 | 20 | [Improving skill-creator: Test, measure, and refine Agent Skills](https://www.linkedin.com/pulse/improving-skill-creator-test-measure-refine-agent-skills-paul-petri-gogxf/) | Article | AI / LLM | 2026-08-23 |
+| 21 | [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) | Article | AI / LLM | 2026-08-23 |
+| 22 | [How We Build Effective Agents: Barry Zhang, Anthropic](https://www.youtube.com/watch?v=D7_ipDqhtwk) | Video | AI / LLM | 2026-08-23 |
 
 ---
 

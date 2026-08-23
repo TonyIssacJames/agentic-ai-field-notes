@@ -35,13 +35,14 @@ So an item can legitimately appear both in a root type page and in a topic page 
 
 `history.md` is the one page that cuts across every type and topic: **every link added anywhere in this repo gets exactly one row there**, in the order it was added. It exists to make the collection's growth visible, so it is motivational, not just an index — the running count matters to the owner.
 
-Adding a link is therefore always a **three-part edit**, and it is not done until all three are made:
+Adding a link is therefore always a **four-part edit**, and it is not done until all four are made:
 
 1. The row on the destination page (`articles.md`, `youtube.md`, `repos.md`, `links.md`, or a topic page).
 2. A new row appended at the **bottom** of the `history.md` table, numbered `previous + 1`.
 3. The banner near the top of `history.md` — bump `N artifacts added so far` **and** set `_Last added:_` to the newest entry.
+4. The **Milestones** checklist at the bottom of `history.md` — compare the new total against the list (10 / 25 / 50 / 100 / 250 …) and tick any box the new total has now reached or passed, with `_(YYYY-MM-DD)_` next to it. Check this every time, not just on round-looking totals — it is easy to skip.
 
-Never renumber or reorder existing rows; the log is append-only. **Check for a duplicate before appending** (below). Use `YYYY-MM-DD` dates and the `Type` / `Topic` vocabularies listed in that file. When adding a batch, append them all, then bump the count once by the batch size. If a milestone in that file is reached, tick its checkbox.
+Never renumber or reorder existing rows; the log is append-only. **Check for a duplicate before appending** (below). Use `YYYY-MM-DD` dates and the `Type` / `Topic` vocabularies listed in that file. When adding a batch, append them all, then bump the count once by the batch size, then check the Milestones list once against the new total.
 
 ### `my_writings/` — long-form pieces the owner wrote
 

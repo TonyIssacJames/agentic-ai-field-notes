@@ -59,7 +59,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 ## Milestones
 
 - [x] 10 artifacts 🎉 _(2026-08-18)_
-- [ ] 25 artifacts
+- [x] 25 artifacts _(2026-08-23)_
 - [ ] 50 artifacts
 - [ ] 100 artifacts
 - [ ] 250 artifacts

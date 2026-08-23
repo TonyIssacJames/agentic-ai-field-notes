@@ -2,9 +2,9 @@
 
 Longer pieces I have written myself — deeper than a [note](../notes.md), closer to an article.
 
-> ## ✍️ 1 piece written so far
+> ## ✍️ 2 pieces written so far
 >
-> _Last written: How does `npx skills add ...` work? — 2026-08-22_
+> _Last written: OpenKB sample usage and setting — 2026-08-24_
 
 These are my own work, not collected links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. That number tracks links saved; this one tracks things written.
 
@@ -15,6 +15,7 @@ These are my own work, not collected links, so they do **not** appear in [histor
 | # | Piece | Topic | Written |
 |---:|------|-------|---------|
 | 1 | [How does `npx skills add ...` work?](how-npx-skills-add-works.md) | AI / LLM | 2026-08-22 |
+| 2 | [OpenKB sample usage and setting](openkb-sample-usage-and-settings.md) | AI / LLM | 2026-08-24 |
 
 ---
 

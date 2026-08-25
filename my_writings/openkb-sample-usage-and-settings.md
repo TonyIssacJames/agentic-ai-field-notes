@@ -199,4 +199,4 @@ Usage: $0.52 (for indexing the Bishop-Pattern-Recognition-and-Machine-Learning-2
 
 ---
 
-[← My Writings](README.md) | [← Home](../README.md)
+[← OpenKB notes](openkb-notes.md) | [← My Writings](README.md) | [← Home](../README.md)

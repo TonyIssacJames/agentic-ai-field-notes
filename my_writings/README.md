@@ -2,9 +2,9 @@
 
 Longer pieces I have written myself — deeper than a [note](../notes.md), closer to an article.
 
-> ## ✍️ 2 pieces written so far
+> ## ✍️ 5 pieces written so far
 >
-> _Last written: OpenKB sample usage and setting — 2026-08-24_
+> _Last written: How retrieval works in OpenKB — 2026-08-25_
 
 These are my own work, not collected links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. That number tracks links saved; this one tracks things written.
 
@@ -16,6 +16,9 @@ These are my own work, not collected links, so they do **not** appear in [histor
 |---:|------|-------|---------|
 | 1 | [How does `npx skills add ...` work?](how-npx-skills-add-works.md) | AI / LLM | 2026-08-22 |
 | 2 | [OpenKB sample usage and setting](openkb-sample-usage-and-settings.md) | AI / LLM | 2026-08-24 |
+| 3 | [OpenKB notes](openkb-notes.md) — index of the three pieces below | AI / LLM | 2026-08-25 |
+| 4 | [OpenKB troubleshooting notes — Bishop PRML compile across kb2/kb3/kb4](openkb-qa-notes.md) | AI / LLM | 2026-08-23 |
+| 5 | [How retrieval works in OpenKB](openkb-retrieval-explained.md) | AI / LLM | 2026-08-25 |
 
 ---
 

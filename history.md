@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 28 artifacts added so far
+> ## 📈 29 artifacts added so far
 >
-> _Last added: Building Great Agent Skills: The Missing Manual — 2026-08-23_
+> _Last added: High Performance without Burnout — Dr. Ruth Gotian — 2026-08-26_
 
 ---
 
@@ -40,6 +40,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 26 | [Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber](https://www.youtube.com/watch?v=31GUkCBD-Uc) | Video | AI / LLM | 2026-08-23 |
 | 27 | [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley](https://www.youtube.com/watch?v=Sir59K8ZDPU) | Video | AI / LLM | 2026-08-23 |
 | 28 | [Building Great Agent Skills: The Missing Manual](https://www.youtube.com/watch?v=UNzCG3lw6O0) | Video | AI / LLM | 2026-08-23 |
+| 29 | [High Performance without Burnout — Dr. Ruth Gotian](https://www.linkedin.com/learning/high-performance-without-burnout) | Course | Personal / Career Growth | 2026-08-26 |
 
 ---
 
@@ -51,7 +52,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 3. Bump the count in the banner and update _Last added_.
 
 **Type** — `Article`, `Blog`, `Video`, `Book`, `Course`, `Tutorial`, `Repo`, `Benchmark`, `Doc`, `Paper`, `Tool`
-**Topic** — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture`, `Misc`
+**Topic** — `AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture`, `Personal / Career Growth`, `Misc`
 **Date** — `YYYY-MM-DD`
 
 ---

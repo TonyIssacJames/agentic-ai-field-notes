@@ -29,6 +29,10 @@ Online courses, certifications and structured learning paths.
 
 - [Course title](https://example.com) — Platform; what it covers
 
+## Personal / Career Growth
+
+- [High Performance without Burnout — Dr. Ruth Gotian](https://www.linkedin.com/learning/high-performance-without-burnout) — LinkedIn Learning; short lessons that frame burnout as a performance risk to manage rather than a willpower problem
+
 ## Finished
 
 - [x] [Course title](https://example.com) — Main takeaway

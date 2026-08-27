@@ -19,6 +19,7 @@ Notes and references related to AI, LLMs, agents, RAG, tooling, and applied AI.
 - [AI Evals: Art and Science of Building Reliable AI Apps](https://arshren.medium.com/ai-evals-art-and-science-of-building-reliable-ai-apps-11dbfba2a343) — Evaluating LLM apps for reliability
 - [Prompting Techniques — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/prompting-techniques/) — Steering coding agents: scoping, mid-run correction, multimodal input
 - [Harness Engineering — Agentic Engineering Guide](https://agentic-engineering.swmansion.com/becoming-productive/harness-engineering/) — Shaping the agent's environment: config files, skills, MCP servers, subagents, hooks
+- [10 RAG Shifts Redefining Production AI in 2026 — Ozgur Guler](https://medium.com/microsoft/10-rag-shifts-redefining-production-ai-in-2026-7acbdd66076c) — Production-grade RAG in 2026: coverage over ranking, hybrid retrievers, vector + graph
 
 ## Blogs
 - [Renu's Blog (arshren)](https://arshren.medium.com/) — Applied AI, LLMs, agents and evals

@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 29 artifacts added so far
+> ## 📈 31 artifacts added so far
 >
-> _Last added: High Performance without Burnout — Dr. Ruth Gotian — 2026-08-26_
+> _Last added: Demo to Production. Architect a Real Agentic AI System (Step by Step) — Sanjay Kumar — 2026-08-27_
 
 ---
 
@@ -41,6 +41,8 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 27 | [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley](https://www.youtube.com/watch?v=Sir59K8ZDPU) | Video | AI / LLM | 2026-08-23 |
 | 28 | [Building Great Agent Skills: The Missing Manual](https://www.youtube.com/watch?v=UNzCG3lw6O0) | Video | AI / LLM | 2026-08-23 |
 | 29 | [High Performance without Burnout — Dr. Ruth Gotian](https://www.linkedin.com/learning/high-performance-without-burnout) | Course | Personal / Career Growth | 2026-08-26 |
+| 30 | [10 RAG Shifts Redefining Production AI in 2026 — Ozgur Guler](https://medium.com/microsoft/10-rag-shifts-redefining-production-ai-in-2026-7acbdd66076c) | Article | AI / LLM | 2026-08-27 |
+| 31 | [Demo to Production. Architect a Real Agentic AI System (Step by Step) — Sanjay Kumar](https://www.youtube.com/watch?v=ZIAzZtKWmbI&t=524s) | Video | AI / LLM | 2026-08-27 |
 
 ---
 

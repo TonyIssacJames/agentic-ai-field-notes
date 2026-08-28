@@ -13,6 +13,7 @@ Videos worth watching, revisiting, or keeping as references.
 - [ ] [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley](https://www.youtube.com/watch?v=Sir59K8ZDPU) — Why structured knowledge frameworks (ontologies) are needed for agents to reason and act reliably
 - [ ] [Building Great Agent Skills: The Missing Manual](https://www.youtube.com/watch?v=UNzCG3lw6O0) — Practical guidance on writing and structuring effective agent skills
 - [ ] [Demo to Production. Architect a Real Agentic AI System (Step by Step) — Sanjay Kumar](https://www.youtube.com/watch?v=ZIAzZtKWmbI&t=524s) — Applied with AI; end-to-end walkthrough of taking an agentic system from demo to a production architecture
+- [ ] [From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS](https://www.youtube.com/watch?v=pqlWNihgdjI) — How teams move past AI as an assistant and redesign how software actually gets built
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

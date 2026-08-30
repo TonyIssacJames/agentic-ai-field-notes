@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 32 artifacts added so far
+> ## 📈 33 artifacts added so far
 >
-> _Last added: From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS — 2026-08-29_
+> _Last added: The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai — 2026-08-31_
 
 ---
 
@@ -44,6 +44,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 30 | [10 RAG Shifts Redefining Production AI in 2026 — Ozgur Guler](https://medium.com/microsoft/10-rag-shifts-redefining-production-ai-in-2026-7acbdd66076c) | Article | AI / LLM | 2026-08-27 |
 | 31 | [Demo to Production. Architect a Real Agentic AI System (Step by Step) — Sanjay Kumar](https://www.youtube.com/watch?v=ZIAzZtKWmbI&t=524s) | Video | AI / LLM | 2026-08-27 |
 | 32 | [From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS](https://www.youtube.com/watch?v=pqlWNihgdjI) | Video | AI / LLM | 2026-08-29 |
+| 33 | [The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai](https://www.youtube.com/watch?v=1KOdiGgMtpY) | Video | AI / LLM | 2026-08-31 |
 
 ---
 

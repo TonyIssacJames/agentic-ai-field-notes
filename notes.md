@@ -6,6 +6,16 @@ These are my own writing, not collected links — so they do **not** appear in [
 
 ---
 
+## 2026-09-03 — Fix your signal sources
+
+A learning tip for AI: **fix your signal sources** — [Anthropic Engineering](blogs.md), OpenAI Engineering and the like — and learn from those.
+
+Every influencer has to create something *every day*. That cadence is their business model, not a signal of substance. The labs publish when they have actually built something and have something to say.
+
+So pick the sources, and try to learn only from those.
+
+---
+
 ## 2026-08-22 — together.ai, and what Hassan El Mghari builds there
 
 Interesting line of work. [together.ai](https://www.together.ai/) is an **AI native cloud platform** for running, deploying and training open source models. Three things it makes easy:

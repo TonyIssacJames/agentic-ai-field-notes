@@ -11,7 +11,7 @@ Blogs and authors worth following — recurring sources, as opposed to one-off [
 
 Engineering and research blogs published by the frontier labs themselves — first-hand accounts of how the models and harnesses are actually built.
 
-- [Engineering at Anthropic](https://www.anthropic.com/engineering) — Anthropic's engineering blog: agent design, harness engineering, Claude Code internals, evals and safety in production
+- [Engineering at Anthropic](https://www.anthropic.com/engineering) — Anthropic's engineering blog: agent design, harness engineering, Claude Code internals, evals and safety in production ([my notes](notes.md))
 
 ## GPU / Performance
 

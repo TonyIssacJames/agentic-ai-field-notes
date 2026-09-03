@@ -24,6 +24,7 @@ Notes and references related to AI, LLMs, agents, RAG, tooling, and applied AI.
 ## Blogs
 - [Renu's Blog (arshren)](https://arshren.medium.com/) — Applied AI, LLMs, agents and evals
 - [Software Mansion Agentic Engineering Guide](https://agentic-engineering.swmansion.com/) — Working with coding agents while keeping code quality
+- [Engineering at Anthropic](https://www.anthropic.com/engineering) — Anthropic's own engineering blog: agent design, harness engineering, Claude Code internals, evals
 
 ## Videos
 - [ROI Measurement for Agentic AI Products](https://www.youtube.com/watch?v=ff3W8SM4ScA&t=319s) — Measuring return on agent deployments

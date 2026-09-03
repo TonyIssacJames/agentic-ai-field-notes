@@ -15,6 +15,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [📚 Books](books.md)
 - [🎓 Courses](courses.md)
 - [📖 Tutorials](tutorials.md)
+- [🛠️ Setting Up](setting-up.md) — installation & environment setup
 - [🤖 Agentic Tools & Skills](agentic-tools.md)
 - [⭐ Great Repositories](repos.md)
 - [🏁 Benchmarks & Leaderboards](benchmarks.md)

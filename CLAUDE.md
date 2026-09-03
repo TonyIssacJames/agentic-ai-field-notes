@@ -17,7 +17,7 @@ The owner adds material continuously and commits often. Most requests will be ab
 
 Two axes cross each other, and every page is one cell in that grid:
 
-- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
+- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `setting-up.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
 - **The owner's own writing**: `notes.md` (short), `motivational_quotes.md` (quotes), `my_writings/` (long-form pieces)
 
@@ -33,7 +33,7 @@ So an item can legitimately appear both in a root type page and in a topic page 
 
 ### `history.md` — always update it
 
-`history.md` is the one page that cuts across every type and topic: **every link added anywhere in this repo gets exactly one row there**, in the order it was added. It exists to make the collection's growth visible, so it is motivational, not just an index — the running count matters to the owner.
+`history.md` is the one page that cuts across every type and topic: **every link added anywhere in this repo gets exactly one row there**, in the order it was added — the only exceptions are the pages listed below as exempt (`notes.md`, `motivational_quotes.md`, `setting-up.md`, `my_writings/`). It exists to make the collection's growth visible, so it is motivational, not just an index — the running count matters to the owner.
 
 Adding a link is therefore always a **four-part edit**, and it is not done until all four are made:
 
@@ -53,6 +53,16 @@ One file per piece at `my_writings/<slug>.md`, indexed by the table in `my_writi
 Footer for a piece: `[← My Writings](README.md) | [← Home](../README.md)`.
 
 Pieces never get a `history.md` row — they have no URL, so the duplicate sweep cannot use them, and the artifact count means "links saved".
+
+### `setting-up.md` — installation and environment setup
+
+Guides for getting a toolchain working on a machine: install steps, editor and compiler configuration, driver and SDK setup. It sits beside `tutorials.md` rather than inside it — a tutorial teaches a technique you come back to, a setup guide is followed once and then done.
+
+**Entries here are exempt from `history.md`**: no row, no count bump. The owner's call — these are trivial installation instructions, not material worth collecting, and letting them inflate the artifact total would dilute what that number means. Same exemption as `notes.md` and `motivational_quotes.md`, for the same reason.
+
+Because they are exempt, the `history.md` duplicate sweep cannot see them — check `setting-up.md` itself before adding a setup link to it.
+
+It uses the four subject headings plus an `## Engineering / General` one (the same extra heading `blogs.md` carries), since a lot of setup material — editors, compilers, shells — belongs to no single subject.
 
 ### `notes.md` and `motivational_quotes.md` — the owner's own writing
 

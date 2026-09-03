@@ -54,7 +54,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 ## How to add a row
 
 0. **Check it isn't already here** — Ctrl+F this page for the distinctive part of the URL (the last path segment, the YouTube `v=` ID, the Amazon ASIN). Search that, *not* the domain: two articles from the same blog are not duplicates.
-1. Add the link to its normal page first — posts to [articles.md](articles.md), recurring authors to [blogs.md](blogs.md), videos to [youtube.md](youtube.md), books to [books.md](books.md), courses to [courses.md](courses.md), how-tos to [tutorials.md](tutorials.md), agent tooling to [agentic-tools.md](agentic-tools.md), repositories to [repos.md](repos.md), leaderboards to [benchmarks.md](benchmarks.md), everything else to [links.md](links.md).
+1. Add the link to its normal page first — posts to [articles.md](articles.md), recurring authors to [blogs.md](blogs.md), videos to [youtube.md](youtube.md), books to [books.md](books.md), courses to [courses.md](courses.md), how-tos to [tutorials.md](tutorials.md), agent tooling to [agentic-tools.md](agentic-tools.md), repositories to [repos.md](repos.md), leaderboards to [benchmarks.md](benchmarks.md), everything else to [links.md](links.md). Setup and installation guides go to [setting-up.md](setting-up.md) and **stop there** — like [notes.md](notes.md) and [motivational_quotes.md](motivational_quotes.md), that page gets no rows here and does not bump the count.
 2. Append one row at the **bottom** of the table above, with the next number.
 3. Bump the count in the banner and update _Last added_.
 

@@ -15,6 +15,7 @@ Videos worth watching, revisiting, or keeping as references.
 - [ ] [Demo to Production. Architect a Real Agentic AI System (Step by Step) — Sanjay Kumar](https://www.youtube.com/watch?v=ZIAzZtKWmbI&t=524s) — Applied with AI; end-to-end walkthrough of taking an agentic system from demo to a production architecture
 - [ ] [From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS](https://www.youtube.com/watch?v=pqlWNihgdjI) — How teams move past AI as an assistant and redesign how software actually gets built
 - [ ] [The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai](https://www.youtube.com/watch?v=1KOdiGgMtpY) — When AI makes building cheap, the value moves to choosing what to build and conveying it without distortion
+- [ ] [Build a production-ready RAG agent with Google Agent Development Kit (ADK), Gemini, and Cloud Run](https://www.youtube.com/watch?v=sWHMIjgcxEU) — End-to-end build of a RAG agent on Google's ADK, deployed to Cloud Run; the Google-stack counterpart to the RAG courses
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 34 artifacts added so far
+> ## 📈 35 artifacts added so far
 >
-> _Last added: Engineering at Anthropic — 2026-09-03_
+> _Last added: Build a production-ready RAG agent with Google Agent Development Kit (ADK), Gemini, and Cloud Run — 2026-09-03_
 
 ---
 
@@ -46,6 +46,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 32 | [From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS](https://www.youtube.com/watch?v=pqlWNihgdjI) | Video | AI / LLM | 2026-08-29 |
 | 33 | [The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai](https://www.youtube.com/watch?v=1KOdiGgMtpY) | Video | AI / LLM | 2026-08-31 |
 | 34 | [Engineering at Anthropic](https://www.anthropic.com/engineering) | Blog | AI / LLM | 2026-09-03 |
+| 35 | [Build a production-ready RAG agent with Google Agent Development Kit (ADK), Gemini, and Cloud Run](https://www.youtube.com/watch?v=sWHMIjgcxEU) | Video | AI / LLM | 2026-09-03 |
 
 ---
 

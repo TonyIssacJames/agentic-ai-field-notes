@@ -17,6 +17,8 @@ Videos worth watching, revisiting, or keeping as references.
 - [ ] [The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai](https://www.youtube.com/watch?v=1KOdiGgMtpY) — When AI makes building cheap, the value moves to choosing what to build and conveying it without distortion
 - [ ] [Build a production-ready RAG agent with Google Agent Development Kit (ADK), Gemini, and Cloud Run](https://www.youtube.com/watch?v=sWHMIjgcxEU) — End-to-end build of a RAG agent on Google's ADK, deployed to Cloud Run; the Google-stack counterpart to the RAG courses
 - [ ] [Claude Codes New INTENT.MD, What is It? — Rob Shocks](https://www.youtube.com/watch?v=LoMOPj-lO8U) — Walkthrough of the INTENT.md convention: capturing the *what* of a change as a spec Claude Code works from, distinct from CLAUDE.md standing instructions
+- [ ] [Claude FULL COURSE 1 HOUR (Build & Automate Anything) — Julian Goldie SEO](https://www.youtube.com/watch?v=KrKhfm2Xuho) — [must watch] One-hour end-to-end course on building and automating with Claude; the video-length counterpart to the written feature tour in [articles.md](articles.md)
+- [ ] [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) — Sixteen tips for getting more out of Claude Code at lower token cost, presented as research-backed rather than anecdotal
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

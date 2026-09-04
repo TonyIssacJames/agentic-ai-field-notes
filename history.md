@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 36 artifacts added so far
+> ## 📈 41 artifacts added so far
 >
-> _Last added: Claude Codes New INTENT.MD, What is It? — Rob Shocks — 2026-09-03_
+> _Last added: Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti — 2026-09-04_
 
 ---
 
@@ -48,6 +48,11 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 34 | [Engineering at Anthropic](https://www.anthropic.com/engineering) | Blog | AI / LLM | 2026-09-03 |
 | 35 | [Build a production-ready RAG agent with Google Agent Development Kit (ADK), Gemini, and Cloud Run](https://www.youtube.com/watch?v=sWHMIjgcxEU) | Video | AI / LLM | 2026-09-03 |
 | 36 | [Claude Codes New INTENT.MD, What is It? — Rob Shocks](https://www.youtube.com/watch?v=LoMOPj-lO8U) | Video | AI / LLM | 2026-09-03 |
+| 37 | [Loops and Graphs: how to stop babysitting agents and only approve the last step — Hanako](https://x.com/hanakoxbt/status/2091515787366306154) | Article | AI / LLM | 2026-09-04 |
+| 38 | [Graph Engineering: The Complete Guide to Building Multi-Agent AI Systems — Lunar](https://x.com/LunarResearcher/status/2086071302272528833) | Article | AI / LLM | 2026-09-04 |
+| 39 | [Claude Can Do All of This. Most People Have No Idea. — Anatoli Kopadze](https://x.com/AnatoliKopadze/status/2057813254617858078) | Article | AI / LLM | 2026-09-04 |
+| 40 | [Claude FULL COURSE 1 HOUR (Build & Automate Anything) — Julian Goldie SEO](https://www.youtube.com/watch?v=KrKhfm2Xuho) | Video | AI / LLM | 2026-09-04 |
+| 41 | [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) | Video | AI / LLM | 2026-09-04 |
 
 ---
 

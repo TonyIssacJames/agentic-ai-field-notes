@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 41 artifacts added so far
+> ## 📈 42 artifacts added so far
 >
-> _Last added: Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti — 2026-09-04_
+> _Last added: Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing — 2026-09-06_
 
 ---
 
@@ -53,6 +53,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 39 | [Claude Can Do All of This. Most People Have No Idea. — Anatoli Kopadze](https://x.com/AnatoliKopadze/status/2057813254617858078) | Article | AI / LLM | 2026-09-04 |
 | 40 | [Claude FULL COURSE 1 HOUR (Build & Automate Anything) — Julian Goldie SEO](https://www.youtube.com/watch?v=KrKhfm2Xuho) | Video | AI / LLM | 2026-09-04 |
 | 41 | [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) | Video | AI / LLM | 2026-09-04 |
+| 42 | [Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing](https://www.youtube.com/watch?v=46L0eoeh8v4) | Video | AI / LLM | 2026-09-06 |
 
 ---
 

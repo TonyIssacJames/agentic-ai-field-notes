@@ -19,6 +19,7 @@ Videos worth watching, revisiting, or keeping as references.
 - [ ] [Claude Codes New INTENT.MD, What is It? — Rob Shocks](https://www.youtube.com/watch?v=LoMOPj-lO8U) — Walkthrough of the INTENT.md convention: capturing the *what* of a change as a spec Claude Code works from, distinct from CLAUDE.md standing instructions
 - [ ] [Claude FULL COURSE 1 HOUR (Build & Automate Anything) — Julian Goldie SEO](https://www.youtube.com/watch?v=KrKhfm2Xuho) — [must watch] One-hour end-to-end course on building and automating with Claude; the video-length counterpart to the written feature tour in [articles.md](articles.md)
 - [ ] [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) — Sixteen tips for getting more out of Claude Code at lower token cost, presented as research-backed rather than anecdotal
+- [ ] [Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing](https://www.youtube.com/watch?v=46L0eoeh8v4) — Clip of Google's CEO on why learning to orchestrate AI agents now, rather than later, will matter competitively
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

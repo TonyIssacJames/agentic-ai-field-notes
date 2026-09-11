@@ -20,6 +20,7 @@ Videos worth watching, revisiting, or keeping as references.
 - [ ] [Claude FULL COURSE 1 HOUR (Build & Automate Anything) — Julian Goldie SEO](https://www.youtube.com/watch?v=KrKhfm2Xuho) — [must watch] One-hour end-to-end course on building and automating with Claude; the video-length counterpart to the written feature tour in [articles.md](articles.md)
 - [ ] [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) — Sixteen tips for getting more out of Claude Code at lower token cost, presented as research-backed rather than anecdotal
 - [ ] [Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing](https://www.youtube.com/watch?v=46L0eoeh8v4) — Clip of Google's CEO on why learning to orchestrate AI agents now, rather than later, will matter competitively
+- [ ] [Post-training Agents (Hugging Face playlist)](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvQZm-kVlz4wY1vWF0LBcf5) — Live 2026 sessions on training and scaling agents: RL for agents, fine-tuning coding agents, model distillation, reward functions/environments, and agent evals
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

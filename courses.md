@@ -15,7 +15,7 @@ Online courses, certifications and structured learning paths.
 
 ### Agents
 
-- [Course title](https://example.com) — Platform; what it covers
+- [CS329A: Self-Improving AI Agents — Stanford (Aakanksha Chowdhery & Azalia Mirhoseini)](https://cs329a.stanford.edu/#intro) — Free Stanford course on agents that improve themselves through interaction: constitutional AI, verification systems, RL, test-time compute scaling, multi-step reasoning, tool use, and eval frameworks for agentic workflows
 
 ## GPU / Performance
 

@@ -6,6 +6,12 @@ Like [notes.md](notes.md), these are not collected links — they do **not** get
 
 ---
 
+## 2026-09-15 — Arrive early, leave late
+
+> Arrive 10 minutes earlier than the boss, leave 10 minutes after the boss leaves.
+
+---
+
 ## 2026-08-30 — Master the games or be mastered
 
 > Whether you're aware of it or not, there are games currently running your life right now. You can either master those games, or those games will master you and steal away your time, money and energy. Choice is yours.

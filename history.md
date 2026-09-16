@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 43 artifacts added so far
+> ## 📈 49 artifacts added so far
 >
-> _Last added: Post-training Agents (Hugging Face playlist) — 2026-09-11_
+> _Last added: CS329A: Self-Improving AI Agents — Stanford — 2026-09-16_
 
 ---
 
@@ -55,6 +55,12 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 41 | [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) | Video | AI / LLM | 2026-09-04 |
 | 42 | [Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing](https://www.youtube.com/watch?v=46L0eoeh8v4) | Video | AI / LLM | 2026-09-06 |
 | 43 | [Post-training Agents (Hugging Face playlist)](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvQZm-kVlz4wY1vWF0LBcf5) | Video | AI / LLM | 2026-09-11 |
+| 44 | [How I Built a Complete Client Project with Claude Code (Opus 5) in One Day — Felix Kebaya](https://medium.com/data-science-collective/how-i-built-a-complete-client-project-with-claude-code-opus-5-in-one-day-every-step-from-spec-4e4edd59c654) | Article | AI / LLM | 2026-09-16 |
+| 45 | [How to Create Loops with Claude Code: A Practical Guide to Agentic Automation — Youssef Hosni](https://levelup.gitconnected.com/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143) | Article | AI / LLM | 2026-09-16 |
+| 46 | [Google's New SDLC Guide Draws a Hard Line Between Vibe Coding and Agentic Engineering — Mehmet Özel](https://medium.com/data-science-collective/googles-new-sdlc-guide-draws-a-hard-line-between-vibe-coding-and-agentic-engineering-29ee5514c48c) | Article | AI / LLM | 2026-09-16 |
+| 47 | [You Only Have Weeks Left to Vibe Code — Michal Malewicz](https://michalmalewicz.medium.com/you-only-have-weeks-left-to-vibe-code-09a89c3d3f9b) | Article | AI / LLM | 2026-09-16 |
+| 48 | [Stanford Just Put an $850K/Year Skill on YouTube for Free — Valerie](https://medium.com/dare-to-be-better/stanford-just-put-an-850k-year-skill-on-youtube-for-free-2f131d993219) | Article | AI / LLM | 2026-09-16 |
+| 49 | [CS329A: Self-Improving AI Agents — Stanford](https://cs329a.stanford.edu/#intro) | Course | AI / LLM | 2026-09-16 |
 
 ---
 

@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 49 artifacts added so far
+> ## 📈 50 artifacts added so far
 >
-> _Last added: CS329A: Self-Improving AI Agents — Stanford — 2026-09-16_
+> _Last added: Spec-Driven Development with Claude Code: A Guided Tutorial — Bex Tuychiev — 2026-10-14_
 
 ---
 
@@ -61,6 +61,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 47 | [You Only Have Weeks Left to Vibe Code — Michal Malewicz](https://michalmalewicz.medium.com/you-only-have-weeks-left-to-vibe-code-09a89c3d3f9b) | Article | AI / LLM | 2026-09-16 |
 | 48 | [Stanford Just Put an $850K/Year Skill on YouTube for Free — Valerie](https://medium.com/dare-to-be-better/stanford-just-put-an-850k-year-skill-on-youtube-for-free-2f131d993219) | Article | AI / LLM | 2026-09-16 |
 | 49 | [CS329A: Self-Improving AI Agents — Stanford](https://cs329a.stanford.edu/#intro) | Course | AI / LLM | 2026-09-16 |
+| 50 | [Spec-Driven Development with Claude Code: A Guided Tutorial — Bex Tuychiev](https://www.datacamp.com/tutorial/spec-driven-development-with-claude-code) | Article | AI / LLM | 2026-10-14 |
 
 ---
 
@@ -81,7 +82,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 
 - [x] 10 artifacts 🎉 _(2026-08-18)_
 - [x] 25 artifacts _(2026-08-23)_
-- [ ] 50 artifacts
+- [x] 50 artifacts 🎉 _(2026-10-14)_
 - [ ] 100 artifacts
 - [ ] 250 artifacts
 

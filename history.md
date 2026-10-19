@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 52 artifacts added so far
+> ## 📈 53 artifacts added so far
 >
-> _Last added: GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever — 2026-10-14_
+> _Last added: TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon — 2026-10-19_
 
 ---
 
@@ -64,6 +64,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 50 | [Spec-Driven Development with Claude Code: A Guided Tutorial — Bex Tuychiev](https://www.datacamp.com/tutorial/spec-driven-development-with-claude-code) | Article | AI / LLM | 2026-10-14 |
 | 51 | [Agentic AI Bootcamp: Build Autonomous AI Systems in 3 Days — School of AI](https://www.udemy.com/course/agentic-ai-bootcamp-build-autonomous-ai-systems-in-3-days/) | Course | AI / LLM | 2026-10-14 |
 | 52 | [GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever](https://agilefever.com/bootcamps/agentic-ai-bootcamp/) | Course | AI / LLM | 2026-10-14 |
+| 53 | [TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon](https://knowlathon.com/in/en/course/togaf-enterprise-architecture-foundation-practitioner-course) | Course | Personal / Career Growth | 2026-10-19 |
 
 ---
 

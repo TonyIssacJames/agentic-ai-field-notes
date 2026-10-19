@@ -16,8 +16,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 |---:|----------|------|-------------|-------|
 | 1 | [Agent Engineering: Tools, Workflows, and Feedback — Manning mini-eBook](Agent_Engineering_mini-eBook.pdf) | PDF | Manning sampler by Jungjun Hur, Younghee Song, Roberto Infante, Peter Belcak and Micheal Lanham: a progression from basic agent concepts to dependable, tool-using agentic workflows | 2026-10-14 |
 | 2 | [Understanding Harness Engineering — @techNmak](Understanding_Harness_Engineering.pdf) | PDF | Short handbook on the systems layer around an agent: loops, tool interfaces, context, sandboxes, verification and long-running work | 2026-10-14 |
-| 3 | [Harness Engineering: How AI agents execute, recover, and verify work — @techNmak](1791440002131.jpg) | Infographic | One-page cheat sheet: anatomy of a tool-using agent, execution loop, context and memory, safe recovery, verification | 2026-10-14 |
-| 4 | [AI Harnesses — 6 must-know terms](HUfuzW9XcAAg7na.jpg) | Infographic | Agent loop, tool calling, context management, checkpointing, permissions and sandboxing, guardrails — one small diagram each | 2026-10-14 |
+| 3 | [Harness Engineering: How AI agents execute, recover, and verify work — @techNmak](../infographics/1791440002131.jpg) | Infographic | One-page cheat sheet: anatomy of a tool-using agent, execution loop, context and memory, safe recovery, verification | 2026-10-14 |
+| 4 | [AI Harnesses — 6 must-know terms](../infographics/HUfuzW9XcAAg7na.jpg) | Infographic | Agent loop, tool calling, context management, checkpointing, permissions and sandboxing, guardrails — one small diagram each | 2026-10-14 |
 
 ### GPU / Performance
 _Nothing yet._

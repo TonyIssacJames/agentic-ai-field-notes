@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 114 items done_
+> _0 of 115 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -33,6 +33,7 @@ _From [articles.md](articles.md)_
 - [ ] [A Faster Kernel Starts with Fewer Memory Trips — Chao Ma](https://www.linkedin.com/pulse/faster-kernel-starts-fewer-memory-trips-chao-ma-3tsrc/)
 - [ ] [Sharding a Model Changes When Memory Is Needed — Chao Ma (CS336 Lecture 8 notes)](https://ickma2311.github.io/ML/CS336/lecture08-parallelism-ii.html)
 - [ ] [Parallel Training Starts with Deciding What Moves — Chao Ma (CS336 Lecture 7 notes)](https://ickma2311.github.io/ML/CS336/lecture07-parallelism-i.html)
+- [ ] [Open Language Models — Nathan Lambert (Harvard CS 2881R guest lecture)](https://natolambert.com/slides/2026/harvard/lecture.html#21)
 
 ## 🎥 YouTube Videos
 
@@ -188,7 +189,7 @@ _From [motivation/README.md](motivation/README.md)_
 
 ## Progress
 
-**Completed 0 out of 114 items — 0%**
+**Completed 0 out of 115 items — 0%**
 
 ## Comments
 

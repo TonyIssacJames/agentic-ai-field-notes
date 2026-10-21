@@ -17,7 +17,7 @@ The owner adds material continuously and commits often. Most requests will be ab
 
 Two axes cross each other, and every page is one cell in that grid:
 
-- **By material type** (root level): `inbox.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `setting-up.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
+- **By material type** (root level): `inbox.md`, `TODO.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `setting-up.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
 - **The owner's own writing**: `notes.md` (short), `motivational_quotes.md` (quotes), `my_writings/` (long-form pieces)
 
@@ -43,6 +43,20 @@ Adding a link is therefore always a **four-part edit**, and it is not done until
 4. The **Milestones** checklist at the bottom of `history.md` — compare the new total against the list (10 / 25 / 50 / 100 / 250 …) and tick any box the new total has now reached or passed, with `_(YYYY-MM-DD)_` next to it. Check this every time, not just on round-looking totals — it is easy to skip.
 
 Never renumber or reorder existing rows; the log is append-only. **Check for a duplicate before appending** (below). Use `YYYY-MM-DD` dates and the `Type` / `Topic` vocabularies listed in that file. When adding a batch, append them all, then bump the count once by the batch size, then check the Milestones list once against the new total.
+
+### `TODO.md` — the reading/watching tracker
+
+One checkbox line per saved item, across **every** type page and every file folder: `articles.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `blogs.md`, `agentic-tools.md`, `benchmarks.md`, `repos.md`, `links.md`, plus the catalogued files in `documents/` (PDFs), `pdfs/`, `infographics/` and `motivation/`. It is a flat tracker for "have I got to this yet?" — it does not replace the staged `To Read` → `Finished` sections on the type pages, and ticking a box there does not move anything unless the owner asks. Placeholder rows are never listed; an item that appears twice (e.g. an infographic also listed in `documents/README.md`) is listed once.
+
+**Layout, top to bottom:** a `✅ N% complete` banner with `x of y items done`; the intro; one `##` section per source page (each with a `_From [page](page)_` line), items as `- [ ] [Title](link)`; then `## Progress` with `**Completed x out of y items — N%**`; then `## Comments`; then the footer. The only `- [ ]` / `- [x]` lines in the file are items — never add a checkbox elsewhere, because the totals are counted from them.
+
+**Whenever the owner updates `TODO.md`** (ticks or unticks something), do all of these:
+
+1. Recount: `grep -c '^- \[x\]' TODO.md` is done, `grep -c '^- \[ \]' TODO.md` is left; `y` = done + left; `N%` = done ÷ y, rounded to a whole number.
+2. Update the top banner (`N% complete`, `x of y items done`) **and** the bottom `**Completed x out of y items — N%**` line so the two always agree.
+3. Add a **new comment at the top** of `## Comments`, in the form `- **YYYY-MM-DD · N%** — <comment>`. Make it fresh and a little playful, scaled to the percentage and what was just ticked — never the same wording twice. Never edit or delete old comments; they sink down the list as newer ones are added.
+
+**Whenever any item is added anywhere in the repo** (a link on a type page, a file in `documents/`, `pdfs/`, `infographics/` or `motivation/`), also append it as an unchecked line at the bottom of its section in `TODO.md` (create the section if it is a new source page), then redo steps 1–2 — `y` grows, so the percentage drops. Add a comment only when the owner has actually changed ticks, not for a plain addition.
 
 ### `my_writings/` — long-form pieces the owner wrote
 

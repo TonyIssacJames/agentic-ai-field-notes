@@ -5,6 +5,7 @@ A personal collection of useful technical material, references, videos, reposito
 ## Quick Access
 
 - [📥 Inbox](inbox.md)
+- [✅ TODO](TODO.md) — everything left to read, watch or study, with a completion %
 - [📝 Notes](notes.md)
 - [✨ Motivational Quotes](motivational_quotes.md)
 - [💪 Motivation](motivation/README.md) — saved motivational images

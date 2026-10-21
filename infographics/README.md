@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 27 infographics saved so far
+> ## 🖼️ 33 infographics saved so far
 >
-> _Last added: MIT-styled "Building an AI Quant Research Machine" — 2026-10-19_
+> _Last added: AI Agent Architecture — hackproduct — 2026-10-21_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -33,6 +33,9 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 17 | [9 AI Concepts That Put You Ahead in 2026](HUwlfJUa0AAHHje.jpg) | Agentic loops, MCP, subagents, AI gateway, inference economics, evals, guardrails, observability, context engineering — one flow diagram each | 2026-10-19 |
 | 18 | [How to Build AI Agents from Scratch](HUwwIv7bkAA2iXc.jpg) | Nine steps from defining the use case through prompts, tools, multi-agent, memory and multimodal to deployment, with a tool suggestion per step | 2026-10-19 |
 | 19 | [Building an AI Quant Research Machine — styled as an MIT Sloan working paper](HUxlyCQXEAAv0qr.jpg) | Uses Claude Code to generate 27 strategy variants and try to disprove them: 6 positive, 2 survive out-of-sample, 0 approved. An illustrative graphic, not verified research | 2026-10-19 |
+| 28 | [Your First Hour with Claude](HVHJuceagAAdIgk.jpg) | Twelve setup moves: purpose, memory, model controls, one connected tool, root folder, `about_me.md` and `anti_ai_style.md`, subfolders, global rules, first project, real files, one end-to-end task | 2026-10-21 |
+| 29 | [How to Duplicate Yourself into Claude](HVJEJjja0AAH8MA.jpg) | 22-step recipe for building a voice/style file with Claude Cowork: an interviewer prompt, 100 questions, a voice-compiler prompt, then porting it to other models. Goal: you think, Claude writes | 2026-10-21 |
+| 30 | [AI Agent Architecture — hackproduct](HVKsMAwasAApREs.jpg) | Eight-layer tree from user goal to deployment: interface, planning and orchestration, memory and context, models, tools, state/data layer, observability/safety/evals, deployment, each with example tools | 2026-10-21 |
 
 ## GPU / Performance
 
@@ -41,6 +44,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 20 | [Where does a 2-second LLM reply spend its time? — Vizuara](1792216322434.jpg) | Illustrative breakdown for a 1,000-token prompt and 300-token answer on an 8B model: ~90% of the time is decode, not prefill | 2026-10-19 |
 | 21 | [KV Cache-Aware Routing — Lan Chu](1792245850859.jpg) | The GPU with the shortest queue isn't the fastest; route to the worker already holding the prompt's KV cache to skip most of the prefill (NVIDIA Dynamo) | 2026-10-19 |
 | 22 | [Kimi K3 2.8T: tokens per $1 TCO vs P90 interactivity — SemiAnalysis InferenceX](1792286308136.jpg) | GB300 NVL72 with Dynamo vLLM, Sep vs Oct 2026 runs; annotated with 423 tok/s/user and a 1.68x MegaKernel speedup | 2026-10-19 |
+| 31 | [Load Balancing for LLM Inference](1790144483080.jpg) | Why routing to the "freest" GPU is hard: prompt length and KV cache vary per request. Three strategies: least-load by outstanding tokens, prefix-aware caching, continuous batching. "Balance the tokens, not the traffic" | 2026-10-21 |
+| 32 | [Ollama vs vLLM vs SGLang — GenAI.works](1792485704429.jpg) | Three inference stacks side by side: Ollama for local dev (FIFO queue, GGUF), vLLM for high-traffic serving (continuous batching, PagedAttention), SGLang for agents and shared prefixes (cache-aware router, RadixAttention) | 2026-10-21 |
 
 ## Digital Verification
 
@@ -57,6 +62,7 @@ _Nothing yet._
 | # | Infographic | Description | Added |
 |---:|-------------|-------------|-------|
 | 24 | [Backend concepts to learn early — Puneet Patwari](1792154139665.jpg) | Post from a Principal Engineer at Atlassian: p99 latency, connection pooling, backpressure, idempotency keys, query plans, write amplification, consistent hashing, CDC, outbox, tail latency | 2026-10-19 |
+| 33 | [OOP Concepts in Python](HVICzcPbAAALONE.jpg) | Class, object, encapsulation, abstraction, inheritance and polymorphism, each with a short annotated code sample and its output | 2026-10-21 |
 
 ## Personal / Career Growth
 

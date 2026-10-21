@@ -1,10 +1,10 @@
 # Documents
 
-Files saved into the repo itself — PDFs, e-books, infographics and cheat-sheet images — rather than links to somewhere else. Click a file name to open or download it on GitHub.
+Files saved into the repo itself — PDFs, e-books and the odd infographic — rather than links to somewhere else. Newer infographics go in [infographics](../infographics/README.md); lecture decks go in [pdfs](../pdfs/README.md). Click a file name to open or download it on GitHub.
 
-> ## 📄 4 documents saved so far
+> ## 📄 5 documents saved so far
 >
-> _Last added: AI Harnesses — 6 must-know terms (infographic) — 2026-10-14_
+> _Last added: How to Remember Everything You Read — Polymathinvestor — 2026-10-21_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total.
 
@@ -27,6 +27,14 @@ _Nothing yet._
 
 ### Computer Architecture
 _Nothing yet._
+
+---
+
+## Personal / Career Growth
+
+| # | Document | Type | Description | Added |
+|---:|----------|------|-------------|-------|
+| 5 | [How to Remember Everything You Read — Polymathinvestor](1031.pdf) | PDF | Two-page guide (Nov 2025) to reading for retention: preview first, active reading, the 20% highlighting rule, chunking, spaced repetition, active recall, mnemonics and interleaving, each with why it works and how to apply it | 2026-10-21 |
 
 ---
 

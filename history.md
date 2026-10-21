@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 53 artifacts added so far
+> ## 📈 54 artifacts added so far
 >
-> _Last added: TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon — 2026-10-19_
+> _Last added: How to Build and Deploy a Multi-Agent AI System with Python and Docker — Balajee Asish Brahmandam (freeCodeCamp) — 2026-10-21_
 
 ---
 
@@ -65,6 +65,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 51 | [Agentic AI Bootcamp: Build Autonomous AI Systems in 3 Days — School of AI](https://www.udemy.com/course/agentic-ai-bootcamp-build-autonomous-ai-systems-in-3-days/) | Course | AI / LLM | 2026-10-14 |
 | 52 | [GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever](https://agilefever.com/bootcamps/agentic-ai-bootcamp/) | Course | AI / LLM | 2026-10-14 |
 | 53 | [TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon](https://knowlathon.com/in/en/course/togaf-enterprise-architecture-foundation-practitioner-course) | Course | Personal / Career Growth | 2026-10-19 |
+| 54 | [How to Build and Deploy a Multi-Agent AI System with Python and Docker — Balajee Asish Brahmandam (freeCodeCamp)](https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/) | Tutorial | AI / LLM | 2026-10-21 |
 
 ---
 

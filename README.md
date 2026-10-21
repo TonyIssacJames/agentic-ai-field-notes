@@ -7,9 +7,11 @@ A personal collection of useful technical material, references, videos, reposito
 - [📥 Inbox](inbox.md)
 - [📝 Notes](notes.md)
 - [✨ Motivational Quotes](motivational_quotes.md)
+- [💪 Motivation](motivation/README.md) — saved motivational images
 - [✍️ My Writings](my_writings/README.md)
 - [📄 Documents](documents/README.md) — saved PDFs and e-books
 - [🖼️ Infographics](infographics/README.md) — saved infographics and cheat-sheet images
+- [📑 PDFs](pdfs/README.md) — saved lecture decks, by course
 - [🔗 Useful Links](links.md)
 - [📰 Articles](articles.md)
 - [✍️ Blogs](blogs.md)

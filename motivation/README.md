@@ -2,9 +2,9 @@
 
 Images worth coming back to — lists of sentences, mindset frameworks and career advice saved as pictures. The written equivalent is [motivational_quotes.md](../motivational_quotes.md). Click a file name to view or download it on GitHub.
 
-> ## 💪 4 images saved so far
+> ## 💪 6 images saved so far
 >
-> _Last added: Elon Musk's 5-step algorithm — @ai_explorer25 — 2026-10-21_
+> _Last added: 7 Powerful Storytelling Frameworks — Ashley Couto — 2026-10-22_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total.
 
@@ -16,6 +16,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 2 | [12 Phrases Hiring Managers Want to Hear — Reno Perry](1792587145053.jpg) | Interview lines that signal ownership: a 90-day plan, "I've solved a similar problem", asking what success looks like at 12 months, and improving systems rather than just completing tasks | 2026-10-21 |
 | 3 | [15 Sentences That Live in My Head Rent Free — @Book_therapy223](HVFLAZpW8AAWMof.jpg) | One-liners such as "Fear doesn't stop death; it stops life", "The magic you're looking for is in the work you're avoiding" and "No risk, no story" | 2026-10-21 |
 | 4 | [Elon Musk's 5-step algorithm — @ai_explorer25](elon_musk_technique.png) | Screenshot of a post (Oct 20): question requirements, delete steps, simplify, speed up, then automate — in that order, because optimizing something that shouldn't exist is the classic mistake | 2026-10-21 |
+| 5 | [15 Things People With Healthy Boundaries Do Differently — Dr. Carolyn Frost](1792427610002.jpg) | Fifteen habits: not answering every request immediately, not explaining a no six ways, checking the calendar before committing, not apologizing for reasonable limits, and knowing helping and rescuing are different | 2026-10-22 |
+| 6 | [7 Powerful Storytelling Frameworks — Ashley Couto](1792540482132.jpg) | One-page tour of Freytag's Pyramid, Dan Harmon's Story Circle, the Hero's Journey, the Fichtean Curve, Three Act Structure, Save the Cat beat sheet and Seven-Point Story Structure | 2026-10-22 |
 
 ---
 

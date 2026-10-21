@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 33 infographics saved so far
+> ## 🖼️ 38 infographics saved so far
 >
-> _Last added: AI Agent Architecture — hackproduct — 2026-10-21_
+> _Last added: Activation Memory: Save, Recompute, or Offload? — TheAiEdge.io — 2026-10-22_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -36,6 +36,9 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 28 | [Your First Hour with Claude](HVHJuceagAAdIgk.jpg) | Twelve setup moves: purpose, memory, model controls, one connected tool, root folder, `about_me.md` and `anti_ai_style.md`, subfolders, global rules, first project, real files, one end-to-end task | 2026-10-21 |
 | 29 | [How to Duplicate Yourself into Claude](HVJEJjja0AAH8MA.jpg) | 22-step recipe for building a voice/style file with Claude Cowork: an interviewer prompt, 100 questions, a voice-compiler prompt, then porting it to other models. Goal: you think, Claude writes | 2026-10-21 |
 | 30 | [AI Agent Architecture — hackproduct](HVKsMAwasAApREs.jpg) | Eight-layer tree from user goal to deployment: interface, planning and orchestration, memory and context, models, tools, state/data layer, observability/safety/evals, deployment, each with example tools | 2026-10-21 |
+| 34 | [Cosine Similarity](1792039722517.jpg) | Similarity as the angle between vectors, not their length: formula, worked scores (1.0 same direction, 0.0 perpendicular, -0.6 opposite), and where it is used — semantic search, RAG, recommenders, document matching | 2026-10-22 |
+| 35 | [89 Claude Code Commands](1792552725472.jpg) | Slash commands grouped by job — start a project, settings and safety, context, run in parallel, sessions, review and ship, model and effort, plan and automate, extend, work anywhere, usage. Checked against the official docs, October 2026 | 2026-10-22 |
+| 36 | [Why Claude Is Better Than ChatGPT — Dr. Joerg Storm & Paul Storm](1792588064565.jpg) | Side-by-side of where each excels (Claude: writing, long context, instruction following, coding; ChatGPT: images, ecosystem, speed, multimodal). A promotional take; its own bottom line is to use both | 2026-10-22 |
 
 ## GPU / Performance
 
@@ -46,6 +49,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 22 | [Kimi K3 2.8T: tokens per $1 TCO vs P90 interactivity — SemiAnalysis InferenceX](1792286308136.jpg) | GB300 NVL72 with Dynamo vLLM, Sep vs Oct 2026 runs; annotated with 423 tok/s/user and a 1.68x MegaKernel speedup | 2026-10-19 |
 | 31 | [Load Balancing for LLM Inference](1790144483080.jpg) | Why routing to the "freest" GPU is hard: prompt length and KV cache vary per request. Three strategies: least-load by outstanding tokens, prefix-aware caching, continuous batching. "Balance the tokens, not the traffic" | 2026-10-21 |
 | 32 | [Ollama vs vLLM vs SGLang — GenAI.works](1792485704429.jpg) | Three inference stacks side by side: Ollama for local dev (FIFO queue, GGUF), vLLM for high-traffic serving (continuous batching, PagedAttention), SGLang for agents and shared prefixes (cache-aware router, RadixAttention) | 2026-10-21 |
+| 37 | [What makes a GPU fast at LLM inference? — Vizuara](1792554662970.jpg) | Decode speed is capped by memory bandwidth: tokens/s ≈ bandwidth ÷ 16 GB of weights for an 8B FP16 model. H100 ~210, A100 ~125, RTX 4090 ~63, L40S ~54 tokens/s for one user | 2026-10-22 |
+| 38 | [Activation Memory: Save, Recompute, or Offload? — TheAiEdge.io](1792597490515.gif) | Animated: three ways to handle activations for the backward pass — keep on GPU, recompute with checkpointing, or offload to CPU RAM — plus a selective policy that saves expensive matmul outputs and replays cheap elementwise ops | 2026-10-22 |
 
 ## Digital Verification
 

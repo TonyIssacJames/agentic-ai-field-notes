@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 54 artifacts added so far
+> ## 📈 57 artifacts added so far
 >
-> _Last added: How to Build and Deploy a Multi-Agent AI System with Python and Docker — Balajee Asish Brahmandam (freeCodeCamp) — 2026-10-21_
+> _Last added: Parallel Training Starts with Deciding What Moves — Chao Ma (CS336 Lecture 7 notes) — 2026-10-22_
 
 ---
 
@@ -66,6 +66,9 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 52 | [GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever](https://agilefever.com/bootcamps/agentic-ai-bootcamp/) | Course | AI / LLM | 2026-10-14 |
 | 53 | [TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon](https://knowlathon.com/in/en/course/togaf-enterprise-architecture-foundation-practitioner-course) | Course | Personal / Career Growth | 2026-10-19 |
 | 54 | [How to Build and Deploy a Multi-Agent AI System with Python and Docker — Balajee Asish Brahmandam (freeCodeCamp)](https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/) | Tutorial | AI / LLM | 2026-10-21 |
+| 55 | [A Faster Kernel Starts with Fewer Memory Trips — Chao Ma](https://www.linkedin.com/pulse/faster-kernel-starts-fewer-memory-trips-chao-ma-3tsrc/) | Article | GPU / Performance | 2026-10-22 |
+| 56 | [Sharding a Model Changes When Memory Is Needed — Chao Ma (CS336 Lecture 8 notes)](https://ickma2311.github.io/ML/CS336/lecture08-parallelism-ii.html) | Article | GPU / Performance | 2026-10-22 |
+| 57 | [Parallel Training Starts with Deciding What Moves — Chao Ma (CS336 Lecture 7 notes)](https://ickma2311.github.io/ML/CS336/lecture07-parallelism-i.html) | Article | GPU / Performance | 2026-10-22 |
 
 ---
 

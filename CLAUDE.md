@@ -86,7 +86,7 @@ Papers get their own root page, with the four subject headings and the same stag
 
 ### `ideas.md` — ideas to implement
 
-The owner's own project ideas, not collected material: a `To Implement` list under the four subject headings plus `Engineering / General`, then `In Progress` and `Done`. Entries are `- [ ] **Title** — what and why`; when an idea came from a saved link, add a link back to that entry. Move an idea between sections instead of duplicating it.
+The owner's own project ideas, not collected material: a `To Implement` list grouped by subject (`AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture`, `Engineering / General`). Only headings that have an idea exist — add a subject heading when its first idea arrives, and add `In Progress` / `Done` sections when something first moves into them. Entries are `- [ ] **Title** — what and why`; when an idea came from a saved link, add a link back to that entry. Move an idea between sections instead of duplicating it.
 
 **Entries here are exempt from `history.md`** — no row, no count bump — and are **not** listed in `TODO.md`, which tracks things to read, watch or study rather than things to build.
 

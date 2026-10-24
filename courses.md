@@ -22,7 +22,7 @@ Online courses, certifications and structured learning paths.
 
 ## GPU / Performance
 
-- [Course title](https://example.com) — Platform; what it covers
+- [LLM Inference Optimization — Rishabh Misra (Udacity)](https://www.udacity.com/course/llm-inference-optimization--cd14455) — Udacity (Accenture); intermediate, ~11 h: faster generation via KV caching, GQA and Flash Attention, then quantization, pruning, speculative decoding and multi-device serving, ending in a news-headline-generator project
 
 ## Digital Verification
 

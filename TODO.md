@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 115 items done_
+> _0 of 118 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -79,6 +79,7 @@ _From [courses.md](courses.md)_
 - [ ] [CS329A: Self-Improving AI Agents — Stanford (Aakanksha Chowdhery & Azalia Mirhoseini)](https://cs329a.stanford.edu/#intro)
 - [ ] [Agentic AI Bootcamp: Build Autonomous AI Systems in 3 Days — School of AI](https://www.udemy.com/course/agentic-ai-bootcamp-build-autonomous-ai-systems-in-3-days/)
 - [ ] [GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever](https://agilefever.com/bootcamps/agentic-ai-bootcamp/)
+- [ ] [LLM Inference Optimization — Rishabh Misra (Udacity)](https://www.udacity.com/course/llm-inference-optimization--cd14455)
 - [ ] [High Performance without Burnout — Dr. Ruth Gotian](https://www.linkedin.com/learning/high-performance-without-burnout)
 - [ ] [TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon](https://knowlathon.com/in/en/course/togaf-enterprise-architecture-foundation-practitioner-course)
 
@@ -88,6 +89,8 @@ _From [tutorials.md](tutorials.md)_
 
 - [ ] [Agent Skills — how to create a skill](https://agentskills.io/home#adoption)
 - [ ] [How to Build and Deploy a Multi-Agent AI System with Python and Docker — Balajee Asish Brahmandam (freeCodeCamp)](https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/)
+- [ ] [16x Faster, 70% Smaller: Quantizing Qwen2.5-Coder for High-Throughput CPU Inference — Souvick R.](https://www.linkedin.com/pulse/16x-faster-70-smaller-quantizing-qwen25-coder-cpu-inference-roy-sr4oc/)
+- [ ] [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides)
 
 ## ✍️ Blogs to Follow
 
@@ -189,7 +192,7 @@ _From [motivation/README.md](motivation/README.md)_
 
 ## Progress
 
-**Completed 0 out of 115 items — 0%**
+**Completed 0 out of 118 items — 0%**
 
 ## Comments
 

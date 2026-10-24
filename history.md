@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 58 artifacts added so far
+> ## 📈 61 artifacts added so far
 >
-> _Last added: Open Language Models — Nathan Lambert (Harvard CS 2881R guest lecture) — 2026-10-22_
+> _Last added: Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides) — 2026-10-24_
 
 ---
 
@@ -70,6 +70,9 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 56 | [Sharding a Model Changes When Memory Is Needed — Chao Ma (CS336 Lecture 8 notes)](https://ickma2311.github.io/ML/CS336/lecture08-parallelism-ii.html) | Article | GPU / Performance | 2026-10-22 |
 | 57 | [Parallel Training Starts with Deciding What Moves — Chao Ma (CS336 Lecture 7 notes)](https://ickma2311.github.io/ML/CS336/lecture07-parallelism-i.html) | Article | GPU / Performance | 2026-10-22 |
 | 58 | [Open Language Models — Nathan Lambert (Harvard CS 2881R guest lecture)](https://natolambert.com/slides/2026/harvard/lecture.html#21) | Article | AI / LLM | 2026-10-22 |
+| 59 | [16x Faster, 70% Smaller: Quantizing Qwen2.5-Coder for High-Throughput CPU Inference — Souvick R.](https://www.linkedin.com/pulse/16x-faster-70-smaller-quantizing-qwen25-coder-cpu-inference-roy-sr4oc/) | Tutorial | AI / LLM | 2026-10-22 |
+| 60 | [LLM Inference Optimization — Rishabh Misra (Udacity)](https://www.udacity.com/course/llm-inference-optimization--cd14455) | Course | GPU / Performance | 2026-10-23 |
+| 61 | [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides) | Tutorial | AI / LLM | 2026-10-24 |
 
 ---
 

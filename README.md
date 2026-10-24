@@ -12,6 +12,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [✍️ My Writings](my_writings/README.md)
 - [📄 Documents](documents/README.md) — saved PDFs and e-books
 - [🖼️ Infographics](infographics/README.md) — saved infographics and cheat-sheet images
+- [🎤 Interview](interview/README.md) — saved interview-prep question sets
 - [📑 PDFs](pdfs/README.md) — saved lecture decks, by course
 - [🔗 Useful Links](links.md)
 - [📰 Articles](articles.md)

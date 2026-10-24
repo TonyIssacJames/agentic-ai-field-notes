@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 118 items done_
+> _0 of 157 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -119,6 +119,8 @@ _From [documents/README.md](documents/README.md)_
 - [ ] [Agent Engineering: Tools, Workflows, and Feedback — Manning mini-eBook](documents/Agent_Engineering_mini-eBook.pdf)
 - [ ] [Understanding Harness Engineering — @techNmak](documents/Understanding_Harness_Engineering.pdf)
 - [ ] [How to Remember Everything You Read — Polymathinvestor](documents/1031.pdf)
+- [ ] [AI Evals: Measuring what matters in LLM apps and agents — AI engineering field guide (2026 edition)](documents/1792238416947.pdf)
+- [ ] [Building Small Language Models — Andrej Karpathy (Small Language Model Engineering 2026)](documents/Andrej-Karpathy-Small-LLMs-Setup.pdf)
 
 ## 📑 PDFs
 
@@ -176,6 +178,29 @@ _From [infographics/README.md](infographics/README.md)_
 - [ ] [7 Ways to respond when someone disrespects you at work — Dora Vanourek](infographics/1791919300737.jpg)
 - [ ] [How To Win In Corporate Life](infographics/1791939005561.jpg)
 - [ ] [How to Focus When Your Mind Is Everywhere — @Book_therapy223](infographics/HUrs5c4WsAEoHkx.jpg)
+- [ ] [Optimization Methods in Machine Learning](infographics/1791626612803.jpg)
+- [ ] [How CNNs See Images — @tetsuoai](infographics/1791709597046.jpg)
+- [ ] [Why LLM decoding is memory-bound](infographics/1792042969565.gif)
+- [ ] [Two Fabrics, One Request — Christian Dubois](infographics/1792065256028.jpg)
+- [ ] [vLLM Explained](infographics/1792224883230.jpg)
+- [ ] [Learning LangGraph, Day 20: LangSmith Explained](infographics/1792238743397.jpg)
+- [ ] [Hallucination Detection vs. Prevention](infographics/1792308620840.jpg)
+- [ ] [LLM Inference 101 — Lan Chu](infographics/1792333739731.jpg)
+- [ ] [How to Prompt Claude Code — Ruben Hassid](infographics/1792504159792.jpg)
+- [ ] [6 Core LLM Architectures — Karthik Chakravarthy](infographics/1792519750030.gif)
+- [ ] [20 Concepts Every AI Engineer Should Learn — codefarm.in](infographics/1792559234214.jpg)
+- [ ] [Non-Agentic vs Agentic AI vs AI Agent — Chris Donnelly](infographics/1792583851154.jpg)
+- [ ] [8 Repositories for AI Engineers — @anasriad](infographics/1792588102995.jpg)
+- [ ] [12 Types of Statistical Tests for your Research — Edidiong Ukpong](infographics/1792600195184.jpg)
+- [ ] [Graph Neural Networks — Harikaran M](infographics/1792718836354.jpg)
+- [ ] [Using Decision Models in Agentic RAG Systems — Aurimas Griciunas (SwirlAI)](infographics/1792752263092.gif)
+- [ ] [Top 10 Deep Learning Algorithms](infographics/1792761172493.jpg)
+- [ ] [How torch.compile Runs a PyTorch Model — TheAiEdge.io](infographics/1792771098620.gif)
+- [ ] [How AI terms fit together](infographics/1792783413888.jpg)
+- [ ] [DSA was HARD until I learned these 15 patterns — algomaster.io](infographics/1792803914639.gif)
+- [ ] [What is weight quantization? — Vizuara](infographics/1792821904238.gif)
+- [ ] [Large Language Model (LLM) — ML Tut](infographics/HVSdSp-asAALdbI.jpg)
+- [ ] [How Boris Cherny prompts Claude — @undefinedKi](infographics/HVV3oNOWAAAJ_Lq.jpg)
 
 ## 💪 Motivation
 
@@ -187,12 +212,31 @@ _From [motivation/README.md](motivation/README.md)_
 - [ ] [Elon Musk's 5-step algorithm — @ai_explorer25](motivation/elon_musk_technique.png)
 - [ ] [15 Things People With Healthy Boundaries Do Differently — Dr. Carolyn Frost](motivation/1792427610002.jpg)
 - [ ] [7 Powerful Storytelling Frameworks — Ashley Couto](motivation/1792540482132.jpg)
+- [ ] [25 habits of people who are easy to work with — Colby Kultgen](motivation/1792537106104.jpg)
+- [ ] [11 Hidden Signs You Have Low Emotional Intelligence — Travis Bradberry](motivation/1792539046832.jpg)
+- [ ] [Master The Art of Resilience — Josh Sanders](motivation/1792582097951.jpg)
+- [ ] [Don't complain, ever — Sahil Bloom](motivation/1792733025973.jpg)
+
+## 🎤 Interview
+
+_From [interview/README.md](interview/README.md)_
+
+- [ ] [FDE Interview — Questions 1–5](interview/1792483947570.jpg)
+- [ ] [FDE Interview — Questions 6–10](interview/1792483947185.jpg)
+- [ ] [FDE Interview — Questions 11–15](interview/1792483947074.jpg)
+- [ ] [FDE Interview — Questions 16–20](interview/1792483947436.jpg)
+- [ ] [FDE Interview — Questions 21–25](interview/1792483946898.jpg)
+- [ ] [FDE Interview — Questions 26–30](interview/1792483947012.jpg)
+- [ ] [FDE Interview — Questions 31–35](interview/1792483947121.jpg)
+- [ ] [FDE Interview — Questions 36–40](interview/1792483947163.jpg)
+- [ ] [FDE Interview — Questions 41–45](interview/1792483947144.jpg)
+- [ ] [FDE Interview — Questions 46–50](interview/1792483947015.jpg)
 
 ---
 
 ## Progress
 
-**Completed 0 out of 118 items — 0%**
+**Completed 0 out of 157 items — 0%**
 
 ## Comments
 

@@ -2,9 +2,9 @@
 
 Files saved into the repo itself — PDFs, e-books and the odd infographic — rather than links to somewhere else. Newer infographics go in [infographics](../infographics/README.md); lecture decks go in [pdfs](../pdfs/README.md). Click a file name to open or download it on GitHub.
 
-> ## 📄 5 documents saved so far
+> ## 📄 7 documents saved so far
 >
-> _Last added: How to Remember Everything You Read — Polymathinvestor — 2026-10-21_
+> _Last added: Building Small Language Models — Andrej Karpathy — 2026-10-24_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total.
 
@@ -18,6 +18,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 2 | [Understanding Harness Engineering — @techNmak](Understanding_Harness_Engineering.pdf) | PDF | Short handbook on the systems layer around an agent: loops, tool interfaces, context, sandboxes, verification and long-running work | 2026-10-14 |
 | 3 | [Harness Engineering: How AI agents execute, recover, and verify work — @techNmak](../infographics/1791440002131.jpg) | Infographic | One-page cheat sheet: anatomy of a tool-using agent, execution loop, context and memory, safe recovery, verification | 2026-10-14 |
 | 4 | [AI Harnesses — 6 must-know terms](../infographics/HUfuzW9XcAAg7na.jpg) | Infographic | Agent loop, tool calling, context management, checkpointing, permissions and sandboxing, guardrails — one small diagram each | 2026-10-14 |
+| 6 | [AI Evals: Measuring what matters in LLM apps and agents — AI engineering field guide (2026 edition)](1792238416947.pdf) | PDF | 19-page guide: why evals matter, types of evals and graders (code, LLM-as-judge, human), building datasets and metrics, RAG and agent evals, safety and production monitoring | 2026-10-24 |
+| 7 | [Building Small Language Models — Andrej Karpathy (Small Language Model Engineering 2026)](Andrej-Karpathy-Small-LLMs-Setup.pdf) | PDF | Paper-style note on building small models and systems on models you own instead of rent: the nanochat stack (3h51m on 8×H100 for $92.40), the micrograd-to-autoresearch lineage, the cognitive-core idea. Says it is a synthesis of Karpathy's public repositories and talks, so treat it as a secondary source | 2026-10-24 |
 
 ### GPU / Performance
 _Nothing yet._

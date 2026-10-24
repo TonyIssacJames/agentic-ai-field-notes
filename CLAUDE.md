@@ -46,7 +46,7 @@ Never renumber or reorder existing rows; the log is append-only. **Check for a d
 
 ### `TODO.md` — the reading/watching tracker
 
-One checkbox line per saved item, across **every** type page and every file folder: `articles.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `blogs.md`, `agentic-tools.md`, `benchmarks.md`, `repos.md`, `links.md`, plus the catalogued files in `documents/` (PDFs), `pdfs/`, `infographics/` and `motivation/`. It is a flat tracker for "have I got to this yet?" — it does not replace the staged `To Read` → `Finished` sections on the type pages, and ticking a box there does not move anything unless the owner asks. Placeholder rows are never listed; an item that appears twice (e.g. an infographic also listed in `documents/README.md`) is listed once.
+One checkbox line per saved item, across **every** type page and every file folder: `articles.md`, `youtube.md`, `books.md`, `courses.md`, `tutorials.md`, `blogs.md`, `agentic-tools.md`, `benchmarks.md`, `repos.md`, `links.md`, plus the catalogued files in `documents/` (PDFs), `pdfs/`, `infographics/`, `interview/` and `motivation/`. It is a flat tracker for "have I got to this yet?" — it does not replace the staged `To Read` → `Finished` sections on the type pages, and ticking a box there does not move anything unless the owner asks. Placeholder rows are never listed; an item that appears twice (e.g. an infographic also listed in `documents/README.md`) is listed once.
 
 **Layout, top to bottom:** a `✅ N% complete` banner with `x of y items done`; the intro; one `##` section per source page (each with a `_From [page](page)_` line), items as `- [ ] [Title](link)`; then `## Progress` with `**Completed x out of y items — N%**`; then `## Comments`; then the footer. The only `- [ ]` / `- [x]` lines in the file are items — never add a checkbox elsewhere, because the totals are counted from them.
 
@@ -56,7 +56,7 @@ One checkbox line per saved item, across **every** type page and every file fold
 2. Update the top banner (`N% complete`, `x of y items done`) **and** the bottom `**Completed x out of y items — N%**` line so the two always agree.
 3. Add a **new comment at the top** of `## Comments`, in the form `- **YYYY-MM-DD · N%** — <comment>`. Make it fresh and a little playful, scaled to the percentage and what was just ticked — never the same wording twice. Never edit or delete old comments; they sink down the list as newer ones are added.
 
-**Whenever any item is added anywhere in the repo** (a link on a type page, a file in `documents/`, `pdfs/`, `infographics/` or `motivation/`), also append it as an unchecked line at the bottom of its section in `TODO.md` (create the section if it is a new source page), then redo steps 1–2 — `y` grows, so the percentage drops. Add a comment only when the owner has actually changed ticks, not for a plain addition.
+**Whenever any item is added anywhere in the repo** (a link on a type page, a file in `documents/`, `pdfs/`, `infographics/`, `interview/` or `motivation/`), also append it as an unchecked line at the bottom of its section in `TODO.md` (create the section if it is a new source page), then redo steps 1–2 — `y` grows, so the percentage drops. Add a comment only when the owner has actually changed ticks, not for a plain addition.
 
 ### `my_writings/` — long-form pieces the owner wrote
 

@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 38 infographics saved so far
+> ## 🖼️ 61 infographics saved so far
 >
-> _Last added: Activation Memory: Save, Recompute, or Offload? — TheAiEdge.io — 2026-10-22_
+> _Last added: How Boris Cherny prompts Claude — @undefinedKi — 2026-10-24_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -39,6 +39,22 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 34 | [Cosine Similarity](1792039722517.jpg) | Similarity as the angle between vectors, not their length: formula, worked scores (1.0 same direction, 0.0 perpendicular, -0.6 opposite), and where it is used — semantic search, RAG, recommenders, document matching | 2026-10-22 |
 | 35 | [89 Claude Code Commands](1792552725472.jpg) | Slash commands grouped by job — start a project, settings and safety, context, run in parallel, sessions, review and ship, model and effort, plan and automate, extend, work anywhere, usage. Checked against the official docs, October 2026 | 2026-10-22 |
 | 36 | [Why Claude Is Better Than ChatGPT — Dr. Joerg Storm & Paul Storm](1792588064565.jpg) | Side-by-side of where each excels (Claude: writing, long context, instruction following, coding; ChatGPT: images, ecosystem, speed, multimodal). A promotional take; its own bottom line is to use both | 2026-10-22 |
+| 39 | [Optimization Methods in Machine Learning](1791626612803.jpg) | Six optimizers side by side, each with its update rule and a small picture: vanilla gradient descent, SGD, mini-batch, momentum, RMSprop and Adam | 2026-10-24 |
+| 40 | [How CNNs See Images — @tetsuoai](1791709597046.jpg) | Part 1 of a 4-part CNN cheat sheet: an image as a tensor, why fully connected layers struggle, the inductive biases (locality, parameter sharing, translation equivariance) and how one filter slides to make a feature map | 2026-10-24 |
+| 44 | [Learning LangGraph, Day 20: LangSmith Explained](1792238743397.jpg) | LangSmith's six features — tracing, debugging, evaluation, prompt playground, monitoring, studio — and a five-stage workflow from development to post-deployment optimization. Takeaway: you cannot improve what you cannot see | 2026-10-24 |
+| 45 | [Hallucination Detection vs. Prevention](1792308620840.jpg) | Prevention (RAG, context engineering, tool grounding, prompt constraints, structured outputs) beside detection (claim verification, grounding checks, fact checking, contradiction detection, abstention), joined in a production RAG flow with a decision gate | 2026-10-24 |
+| 47 | [How to Prompt Claude Code — Ruben Hassid](1792504159792.jpg) | Five moves: start from a screenshot, describe the result not the steps, point Claude at a `design.md`, build one piece at a time, and have Claude interview you first and save the answer to `CLAUDE.md` | 2026-10-24 |
+| 48 | [6 Core LLM Architectures — Karthik Chakravarthy](1792519750030.gif) | Animated block diagrams of mixture of experts, encoder-only, state space (Mamba), decoder-only, hybrid (Jamba-style) and encoder-decoder | 2026-10-24 |
+| 49 | [20 Concepts Every AI Engineer Should Learn — codefarm.in](1792559234214.jpg) | A staircase in five stages: AI/LLM fundamentals, working with LLMs, knowledge retrieval, agentic AI, production AI engineering — from neural networks up to multi-agent systems | 2026-10-24 |
+| 50 | [Non-Agentic vs Agentic AI vs AI Agent — Chris Donnelly](1792583851154.jpg) | Three columns compared on definition, how it works, use cases, pros, cons and how to build one fast. Single-prompt AI vs a self-managing multi-step system vs a single-task worker | 2026-10-24 |
+| 51 | [8 Repositories for AI Engineers — @anasriad](1792588102995.jpg) | Four to learn from (Hands-On Large Language Models, LLMs from Scratch, Hugging Face Agents Course, Chip Huyen's AI Engineering) and four to build with (Docling, Ollama, LangGraph, promptfoo) | 2026-10-24 |
+| 52 | [12 Types of Statistical Tests for your Research — Edidiong Ukpong](1792600195184.jpg) | One card per test (t-tests, ANOVA, repeated measures, chi-square, Pearson's r, regression, Mann-Whitney U, Wilcoxon, Kruskal-Wallis) with what it does, assumptions, an example and when to use it | 2026-10-24 |
+| 53 | [Graph Neural Networks — Harikaran M](1792718836354.jpg) | One-page tour: graph data, message passing (aggregate and update), GCN, GraphSAGE and GAT, the end-to-end workflow, readout and training, GNN vs CNN, challenges and applications | 2026-10-24 |
+| 54 | [Using Decision Models in Agentic RAG Systems — Aurimas Griciunas (SwirlAI)](1792752263092.gif) | Animated: nine places an LLM makes a small routing decision — model routing, guardrails, retrieval sufficiency, filter and rerank, citation checking, tool-call gating, context compaction, evals, loop termination | 2026-10-24 |
+| 55 | [Top 10 Deep Learning Algorithms](1792761172493.jpg) | ANN, CNN, RNN, LSTM, GRU, autoencoder, GAN, transformer, BERT and GPT — one line and one small diagram each | 2026-10-24 |
+| 57 | [How AI terms fit together](1792783413888.jpg) | Nested diagram: AI ⊃ machine learning ⊃ neural networks ⊃ deep learning ⊃ transformers (encoder-only, decoder-only, encoder-decoder, LLMs), with CNNs, diffusion models, GANs and VAEs alongside; generative AI marked as cutting across them | 2026-10-24 |
+| 60 | [Large Language Model (LLM) — ML Tut](HVSdSp-asAALdbI.jpg) | Nine panels: what an LLM is, training data, tokenization, embeddings, positional encoding, the transformer block, self-attention, next-token prediction and inference | 2026-10-24 |
+| 61 | [How Boris Cherny prompts Claude — @undefinedKi](HVV3oNOWAAAJ_Lq.jpg) | Three lines — what you want, how hard to try, how to check it — plus a paste-in prompt that rewrites your request that way. Taken from a post of Oct 2026; the quoted prompts are as reported there | 2026-10-24 |
 
 ## GPU / Performance
 
@@ -51,6 +67,12 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 32 | [Ollama vs vLLM vs SGLang — GenAI.works](1792485704429.jpg) | Three inference stacks side by side: Ollama for local dev (FIFO queue, GGUF), vLLM for high-traffic serving (continuous batching, PagedAttention), SGLang for agents and shared prefixes (cache-aware router, RadixAttention) | 2026-10-21 |
 | 37 | [What makes a GPU fast at LLM inference? — Vizuara](1792554662970.jpg) | Decode speed is capped by memory bandwidth: tokens/s ≈ bandwidth ÷ 16 GB of weights for an 8B FP16 model. H100 ~210, A100 ~125, RTX 4090 ~63, L40S ~54 tokens/s for one user | 2026-10-22 |
 | 38 | [Activation Memory: Save, Recompute, or Offload? — TheAiEdge.io](1792597490515.gif) | Animated: three ways to handle activations for the backward pass — keep on GPU, recompute with checkpointing, or offload to CPU RAM — plus a selective policy that saves expensive matmul outputs and replays cheap elementwise ops | 2026-10-22 |
+| 41 | [Why LLM decoding is memory-bound](1792042969565.gif) | Animated: Llama-3-8B in BF16 on one H100 — every token re-streams all 16 GB of weights from HBM over a 3.35 TB/s link, so tensor cores sit idle and batch 1 tops out near 210 tokens/s | 2026-10-24 |
+| 42 | [Two Fabrics, One Request — Christian Dubois](1792065256028.jpg) | Part 1 of "From Prompt to Silicon": NVLink/NVSwitch inside a server, rail-optimized RDMA (RoCEv2 or InfiniBand) between servers, the KV-cache copy for prefill/decode disaggregation, and lossless-Ethernet congestion control (ECN, CNP, PFC). Numbers are rounded estimates | 2026-10-24 |
+| 43 | [vLLM Explained](1792224883230.jpg) | Where vLLM sits in the stack, PagedAttention, continuous batching, the KV cache, how to run a model, key metrics (TTFT, inter-token latency, throughput), comparison with SGLang, Ollama, TGI and Transformers, and a digital-banking example | 2026-10-24 |
+| 46 | [LLM Inference 101 — Lan Chu](1792333739731.jpg) | Four parts: compute (SMs, precision, quantization), memory (SRAM vs HBM), memory bandwidth, and serving (prefill vs decode, KV cache, TTFT, inter-token latency, batch size) | 2026-10-24 |
+| 56 | [How torch.compile Runs a PyTorch Model — TheAiEdge.io](1792771098620.gif) | Animated: TorchDynamo captures FX graphs, graph breaks split compiled regions around plain Python, guards check shape/dtype/device before reusing cached code, and the backend (TorchInductor) compiles on a miss | 2026-10-24 |
+| 59 | [What is weight quantization? — Vizuara](1792821904238.gif) | Animated: FP16 to INT4 worked on eight weights — one shared scale per 128 weights, rounding error at most s/2 — so Llama-3-8B shrinks to 4.1 GB and frees 11.9 GB for KV cache. From the vLLM + SGLang bootcamp | 2026-10-24 |
 
 ## Digital Verification
 
@@ -68,6 +90,7 @@ _Nothing yet._
 |---:|-------------|-------------|-------|
 | 24 | [Backend concepts to learn early — Puneet Patwari](1792154139665.jpg) | Post from a Principal Engineer at Atlassian: p99 latency, connection pooling, backpressure, idempotency keys, query plans, write amplification, consistent hashing, CDC, outbox, tail latency | 2026-10-19 |
 | 33 | [OOP Concepts in Python](HVICzcPbAAALONE.jpg) | Class, object, encapsulation, abstraction, inheritance and polymorphism, each with a short annotated code sample and its output | 2026-10-21 |
+| 58 | [DSA was HARD until I learned these 15 patterns — algomaster.io](1792803914639.gif) | Animated: two pointers, sliding window, binary search, frequency counting, matrix traversal, monotonic stack, prefix sum, intervals, greedy, top K, backtracking, tree traversal, DFS, BFS and dynamic programming | 2026-10-24 |
 
 ## Personal / Career Growth
 

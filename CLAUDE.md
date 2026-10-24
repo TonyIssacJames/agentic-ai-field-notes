@@ -17,7 +17,7 @@ The owner adds material continuously and commits often. Most requests will be ab
 
 Two axes cross each other, and every page is one cell in that grid:
 
-- **By material type** (root level): `inbox.md`, `TODO.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `papers.md`, `courses.md`, `tutorials.md`, `setting-up.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
+- **By material type** (root level): `inbox.md`, `TODO.md`, `links.md`, `articles.md`, `blogs.md`, `youtube.md`, `books.md`, `papers.md`, `courses.md`, `tutorials.md`, `setting-up.md`, `ideas.md`, `agentic-tools.md`, `notes.md`, `motivational_quotes.md`, `repos.md`, `benchmarks.md`, `keywords.md`, `history.md`
 - **By subject** (`topics/<topic>/`): `gpu`, `ai`, `dv`, `architecture`
 - **The owner's own writing**: `notes.md` (short), `motivational_quotes.md` (quotes), `my_writings/` (long-form pieces)
 
@@ -33,7 +33,7 @@ So an item can legitimately appear both in a root type page and in a topic page 
 
 ### `history.md` — always update it
 
-`history.md` is the one page that cuts across every type and topic: **every link added anywhere in this repo gets exactly one row there**, in the order it was added — the only exceptions are the pages listed below as exempt (`notes.md`, `motivational_quotes.md`, `setting-up.md`, `papers.md`, `my_writings/`). It exists to make the collection's growth visible, so it is motivational, not just an index — the running count matters to the owner.
+`history.md` is the one page that cuts across every type and topic: **every link added anywhere in this repo gets exactly one row there**, in the order it was added — the only exceptions are the pages listed below as exempt (`notes.md`, `motivational_quotes.md`, `setting-up.md`, `papers.md`, `ideas.md`, `my_writings/`). It exists to make the collection's growth visible, so it is motivational, not just an index — the running count matters to the owner.
 
 Adding a link is therefore always a **four-part edit**, and it is not done until all four are made:
 
@@ -83,6 +83,12 @@ It uses the four subject headings plus an `## Engineering / General` one (the sa
 Papers get their own root page, with the four subject headings and the same staged lifecycle as `articles.md` (`To Read` → `Currently Reading` → `Worth Keeping` → `Finished`).
 
 **Entries here are exempt from `history.md`**: no row, no count bump. The owner's call — papers are kept apart from the artifact total. Because they are exempt, the `history.md` duplicate sweep cannot see them, so grep `papers.md` itself (for the arXiv ID or slug) before adding a paper. Papers do still get a checkbox line in `TODO.md` once real entries exist, like any other type page.
+
+### `ideas.md` — ideas to implement
+
+The owner's own project ideas, not collected material: a `To Implement` list under the four subject headings plus `Engineering / General`, then `In Progress` and `Done`. Entries are `- [ ] **Title** — what and why`; when an idea came from a saved link, add a link back to that entry. Move an idea between sections instead of duplicating it.
+
+**Entries here are exempt from `history.md`** — no row, no count bump — and are **not** listed in `TODO.md`, which tracks things to read, watch or study rather than things to build.
 
 ### `notes.md` and `motivational_quotes.md` — the owner's own writing
 

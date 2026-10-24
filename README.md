@@ -7,6 +7,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [📥 Inbox](inbox.md)
 - [✅ TODO](TODO.md) — everything left to read, watch or study, with a completion %
 - [📝 Notes](notes.md)
+- [💡 Ideas to Implement](ideas.md) — things I want to build or try
 - [✨ Motivational Quotes](motivational_quotes.md)
 - [💪 Motivation](motivation/README.md) — saved motivational images
 - [✍️ My Writings](my_writings/README.md)

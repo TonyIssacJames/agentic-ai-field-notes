@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 157 items done_
+> _0 of 167 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -65,6 +65,21 @@ _From [books.md](books.md)_
 - [ ] [Principles of Building AI Agents — Sam Bhagwat](https://www.amazon.in/Principles-Building-Agents-Sam-Bhagwat-ebook/dp/B0DYB2QCS7)
 - [ ] [AI Agents in Action — Ch. 10, Agent reasoning and evaluation](https://learning.oreilly.com/library/view/ai-agents-in/9781633436343/Text/chapter-10.html#sigil_toc_id_137)
 - [ ] [AI Agents in Action — Micheal Lanham](https://learning.oreilly.com/library/view/ai-agents-in/9781633436343/)
+
+## 🧾 Papers
+
+_From [papers.md](papers.md)_
+
+- [ ] [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models — Jason Wei et al.](https://arxiv.org/abs/2201.11903)
+- [ ] [ReAct: Synergizing Reasoning and Acting in Language Models — Shunyu Yao et al.](https://arxiv.org/abs/2210.03629)
+- [ ] [Toolformer: Language Models Can Teach Themselves to Use Tools — Timo Schick et al.](https://arxiv.org/abs/2302.04761)
+- [ ] [Generative Agents: Interactive Simulacra of Human Behavior — Joon Sung Park et al.](https://arxiv.org/abs/2304.03442)
+- [ ] [Reflexion: Language Agents with Verbal Reinforcement Learning — Noah Shinn et al.](https://arxiv.org/abs/2303.11366)
+- [ ] [Tree of Thoughts: Deliberate Problem Solving with Large Language Models — Shunyu Yao et al.](https://arxiv.org/abs/2305.10601)
+- [ ] [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face — Yongliang Shen et al.](https://arxiv.org/abs/2303.17580)
+- [ ] [Voyager: An Open-Ended Embodied Agent with Large Language Models — Guanzhi Wang et al.](https://arxiv.org/abs/2305.16291)
+- [ ] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation — Qingyun Wu et al.](https://arxiv.org/abs/2308.08155)
+- [ ] [A Survey on Large Language Model based Autonomous Agents — Lei Wang et al.](https://arxiv.org/abs/2308.11432)
 
 ## 🎓 Courses & Certifications
 
@@ -236,7 +251,7 @@ _From [interview/README.md](interview/README.md)_
 
 ## Progress
 
-**Completed 0 out of 157 items — 0%**
+**Completed 0 out of 167 items — 0%**
 
 ## Comments
 

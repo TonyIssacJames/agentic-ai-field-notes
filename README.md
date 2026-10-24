@@ -19,6 +19,7 @@ A personal collection of useful technical material, references, videos, reposito
 - [✍️ Blogs](blogs.md)
 - [🎥 YouTube Videos](youtube.md)
 - [📚 Books](books.md)
+- [🧾 Papers](papers.md) — research papers
 - [🎓 Courses](courses.md)
 - [📖 Tutorials](tutorials.md)
 - [🛠️ Setting Up](setting-up.md) — installation & environment setup

@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 167 items done_
+> _0 of 177 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -216,6 +216,15 @@ _From [infographics/README.md](infographics/README.md)_
 - [ ] [What is weight quantization? — Vizuara](infographics/1792821904238.gif)
 - [ ] [Large Language Model (LLM) — ML Tut](infographics/HVSdSp-asAALdbI.jpg)
 - [ ] [How Boris Cherny prompts Claude — @undefinedKi](infographics/HVV3oNOWAAAJ_Lq.jpg)
+- [ ] [The Modern AI Agent Stack You Must Know in 2026 — Brij Kishore Pandey](infographics/1788450286617.jpg)
+- [ ] [7 Layers of AI](infographics/1792329473899.jpg)
+- [ ] [LLM serving is a chain of consequences — Ankit Jodhani](infographics/1792501823829.gif)
+- [ ] [What is FlashAttention? — vLLM + SGLang bootcamp (Vizuara)](infographics/1792660403410.gif)
+- [ ] [Latency vs Throughput vs Bandwidth — Neo Kim](infographics/1792846245617.jpg)
+- [ ] [Building Reasoning Models from the ground up](infographics/1792883961031.jpg)
+- [ ] [What runs behind an AI chat app? — vLLM + SGLang bootcamp (Vizuara)](infographics/1792910282623.jpg)
+- [ ] [7 ways to make an LLM faster — PracticAI](infographics/1792921824335.gif)
+- [ ] [When the KV cache disk fills up](infographics/1792934593054.gif)
 
 ## 💪 Motivation
 
@@ -231,6 +240,7 @@ _From [motivation/README.md](motivation/README.md)_
 - [ ] [11 Hidden Signs You Have Low Emotional Intelligence — Travis Bradberry](motivation/1792539046832.jpg)
 - [ ] [Master The Art of Resilience — Josh Sanders](motivation/1792582097951.jpg)
 - [ ] [Don't complain, ever — Sahil Bloom](motivation/1792733025973.jpg)
+- [ ] [7 Types of Rest — Dr. Miro Bada](motivation/1792839237512.jpg)
 
 ## 🎤 Interview
 
@@ -251,7 +261,7 @@ _From [interview/README.md](interview/README.md)_
 
 ## Progress
 
-**Completed 0 out of 167 items — 0%**
+**Completed 0 out of 177 items — 0%**
 
 ## Comments
 

@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 61 infographics saved so far
+> ## 🖼️ 70 infographics saved so far
 >
-> _Last added: How Boris Cherny prompts Claude — @undefinedKi — 2026-10-24_
+> _Last added: When the KV cache disk fills up — 2026-10-26_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -55,6 +55,9 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 57 | [How AI terms fit together](1792783413888.jpg) | Nested diagram: AI ⊃ machine learning ⊃ neural networks ⊃ deep learning ⊃ transformers (encoder-only, decoder-only, encoder-decoder, LLMs), with CNNs, diffusion models, GANs and VAEs alongside; generative AI marked as cutting across them | 2026-10-24 |
 | 60 | [Large Language Model (LLM) — ML Tut](HVSdSp-asAALdbI.jpg) | Nine panels: what an LLM is, training data, tokenization, embeddings, positional encoding, the transformer block, self-attention, next-token prediction and inference | 2026-10-24 |
 | 61 | [How Boris Cherny prompts Claude — @undefinedKi](HVV3oNOWAAAJ_Lq.jpg) | Three lines — what you want, how hard to try, how to check it — plus a paste-in prompt that rewrites your request that way. Taken from a post of Oct 2026; the quoted prompts are as reported there | 2026-10-24 |
+| 62 | [The Modern AI Agent Stack You Must Know in 2026 — Brij Kishore Pandey](1788450286617.jpg) | Twelve illustrated terms in a chain: RAG, context, memory, agent, agentic AI, tools, MCP, skills, hooks, subagents, orchestration, eval — one line each | 2026-10-26 |
+| 63 | [7 Layers of AI](1792329473899.jpg) | Mountain-climb diagram from classical AI up through machine learning, neural networks, deep learning, generative AI and agentic AI to AGI at the summit; marks generative AI as where today's chat tools sit, agentic AI as the current frontier and AGI as not yet achieved | 2026-10-26 |
+| 67 | [Building Reasoning Models from the ground up](1792883961031.jpg) | Course poster (8 coding videos, 11+ hours, Python + PyTorch) with the techniques it covers: GRPO training loop, KV caching, self-consistency, answer verification, self-refinement, policy clipping and knowledge distillation. Author not shown on the image | 2026-10-26 |
 
 ## GPU / Performance
 
@@ -73,6 +76,11 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 46 | [LLM Inference 101 — Lan Chu](1792333739731.jpg) | Four parts: compute (SMs, precision, quantization), memory (SRAM vs HBM), memory bandwidth, and serving (prefill vs decode, KV cache, TTFT, inter-token latency, batch size) | 2026-10-24 |
 | 56 | [How torch.compile Runs a PyTorch Model — TheAiEdge.io](1792771098620.gif) | Animated: TorchDynamo captures FX graphs, graph breaks split compiled regions around plain Python, guards check shape/dtype/device before reusing cached code, and the backend (TorchInductor) compiles on a miss | 2026-10-24 |
 | 59 | [What is weight quantization? — Vizuara](1792821904238.gif) | Animated: FP16 to INT4 worked on eight weights — one shared scale per 128 weights, rounding error at most s/2 — so Llama-3-8B shrinks to 4.1 GB and frees 11.9 GB for KV cache. From the vLLM + SGLang bootcamp | 2026-10-24 |
+| 64 | [LLM serving is a chain of consequences — Ankit Jodhani](1792501823829.gif) | Animated: serving optimizations as a chain where each fix creates the need for the next — PagedAttention, continuous batching, chunked prefill, prefill/decode disaggregation — with FlashAttention and prefix caching throughout; prefill is compute bound, decode is memory bound | 2026-10-26 |
+| 65 | [What is FlashAttention? — vLLM + SGLang bootcamp (Vizuara)](1792660403410.gif) | Animated: standard attention writes every score tile to HBM while FlashAttention keeps tiles in on-chip SRAM and never stores the full matrix (128 MiB for 8,192 tokens, one head); a running max and sum keep the softmax exact | 2026-10-26 |
+| 68 | [What runs behind an AI chat app? — vLLM + SGLang bootcamp (Vizuara)](1792910282623.jpg) | Self-hosted LLM serving stack: chat app → API gateway (auth, rate limits) → router (sends each chat to the replica with its prefix cached) → vLLM replicas on GPUs, with metrics (queue length, TTFT, tokens/s) feeding an autoscaler | 2026-10-26 |
+| 69 | [7 ways to make an LLM faster — PracticAI](1792921824335.gif) | Animated cards: quantization, knowledge distillation, KV caching, continuous batching, speculative decoding, tensor parallelism and pipeline parallelism, plus a "which one when?" guide (model too big, tokens too slow, too many users) | 2026-10-26 |
+| 70 | [When the KV cache disk fills up](1792934593054.gif) | Animated before/after of KV cache offload from GPU to CPU memory to disk: what happens to writes when the disk fills and when space is freed, with the fix from PR #61780. Author and project are not named on the image | 2026-10-26 |
 
 ## Digital Verification
 
@@ -91,6 +99,7 @@ _Nothing yet._
 | 24 | [Backend concepts to learn early — Puneet Patwari](1792154139665.jpg) | Post from a Principal Engineer at Atlassian: p99 latency, connection pooling, backpressure, idempotency keys, query plans, write amplification, consistent hashing, CDC, outbox, tail latency | 2026-10-19 |
 | 33 | [OOP Concepts in Python](HVICzcPbAAALONE.jpg) | Class, object, encapsulation, abstraction, inheritance and polymorphism, each with a short annotated code sample and its output | 2026-10-21 |
 | 58 | [DSA was HARD until I learned these 15 patterns — algomaster.io](1792803914639.gif) | Animated: two pointers, sliding window, binary search, frequency counting, matrix traversal, monotonic stack, prefix sum, intervals, greedy, top K, backtracking, tree traversal, DFS, BFS and dynamic programming | 2026-10-24 |
+| 66 | [Latency vs Throughput vs Bandwidth — Neo Kim](1792846245617.jpg) | Three columns: definition, highway analogy, how each is measured, what it improves and what to check when it is poor | 2026-10-26 |
 
 ## Personal / Career Growth
 

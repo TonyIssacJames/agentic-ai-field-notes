@@ -2,9 +2,9 @@
 
 Images worth coming back to — lists of sentences, mindset frameworks and career advice saved as pictures. The written equivalent is [motivational_quotes.md](../motivational_quotes.md). Click a file name to view or download it on GitHub.
 
-> ## 💪 10 images saved so far
+> ## 💪 11 images saved so far
 >
-> _Last added: Don't complain, ever — Sahil Bloom — 2026-10-24_
+> _Last added: 7 Types of Rest — Dr. Miro Bada — 2026-10-26_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total.
 
@@ -22,6 +22,7 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 8 | [11 Hidden Signs You Have Low Emotional Intelligence — Travis Bradberry](1792539046832.jpg) | Eleven signs, each with a one-line explanation: overwhelmed easily, can't name emotions, jumping to conclusions, dwelling on mistakes, not knowing your triggers, blaming others, taking things personally. Promotes his book The New Emotional Intelligence | 2026-10-24 |
 | 9 | [Master The Art of Resilience — Josh Sanders](1792582097951.jpg) | The 7 C's of Resilience (Dr. Kenneth Ginsburg, Perelman School of Medicine), five pillars (purpose, relationships, self care, mindfulness, self awareness) and six building tips | 2026-10-24 |
 | 10 | [Don't complain, ever — Sahil Bloom](1792733025973.jpg) | Screenshot of a post (May 2026): complainers drain everyone around them; if it's in your control go do something about it, if it isn't you're wasting energy | 2026-10-24 |
+| 11 | [7 Types of Rest — Dr. Miro Bada](1792839237512.jpg) | Recover like a high performer: mental, physical, sensory, social, creative, emotional and spiritual rest, each with four or five practical actions | 2026-10-26 |
 
 ---
 

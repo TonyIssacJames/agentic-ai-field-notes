@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 61 artifacts added so far
+> ## 📈 62 artifacts added so far
 >
-> _Last added: Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides) — 2026-10-24_
+> _Last added: AI Agent Developer Bootcamp — aiagent.org — 2026-10-27_
 
 ---
 
@@ -73,6 +73,7 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 59 | [16x Faster, 70% Smaller: Quantizing Qwen2.5-Coder for High-Throughput CPU Inference — Souvick R.](https://www.linkedin.com/pulse/16x-faster-70-smaller-quantizing-qwen25-coder-cpu-inference-roy-sr4oc/) | Tutorial | AI / LLM | 2026-10-22 |
 | 60 | [LLM Inference Optimization — Rishabh Misra (Udacity)](https://www.udacity.com/course/llm-inference-optimization--cd14455) | Course | GPU / Performance | 2026-10-23 |
 | 61 | [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides) | Tutorial | AI / LLM | 2026-10-24 |
+| 62 | [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home) | Tutorial | AI / LLM | 2026-10-27 |
 
 ---
 

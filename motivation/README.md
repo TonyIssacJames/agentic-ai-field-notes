@@ -2,9 +2,9 @@
 
 Images worth coming back to — lists of sentences, mindset frameworks and career advice saved as pictures. The written equivalent is [motivational_quotes.md](../motivational_quotes.md). Click a file name to view or download it on GitHub.
 
-> ## 💪 11 images saved so far
+> ## 💪 14 images saved so far
 >
-> _Last added: 7 Types of Rest — Dr. Miro Bada — 2026-10-26_
+> _Last added: If you are a low energy person — Akshat Shrivastava — 2026-10-27_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total.
 
@@ -23,6 +23,9 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 9 | [Master The Art of Resilience — Josh Sanders](1792582097951.jpg) | The 7 C's of Resilience (Dr. Kenneth Ginsburg, Perelman School of Medicine), five pillars (purpose, relationships, self care, mindfulness, self awareness) and six building tips | 2026-10-24 |
 | 10 | [Don't complain, ever — Sahil Bloom](1792733025973.jpg) | Screenshot of a post (May 2026): complainers drain everyone around them; if it's in your control go do something about it, if it isn't you're wasting energy | 2026-10-24 |
 | 11 | [7 Types of Rest — Dr. Miro Bada](1792839237512.jpg) | Recover like a high performer: mental, physical, sensory, social, creative, emotional and spiritual rest, each with four or five practical actions | 2026-10-26 |
+| 12 | [How To Present To Senior Leadership — Cicely Simpson](1792881108429.jpg) | Six rules for a decision-making room: the 20-word ask, lead with the decision on slide 2, give only the context needed to decide, hold a 3-second opening silence, anticipate the three objections, end on a single repeatable sentence | 2026-10-27 |
+| 13 | [20 minutes of doing beats 20 hours of thinking about doing](1792985390338.jpg) | Photo of a highlighted book page: "20 minutes of doing something is more valuable than 20 hours of thinking about doing something." Book and author not shown | 2026-10-27 |
+| 14 | [If you are a low energy person — Akshat Shrivastava](energy_personality.png) | Screenshot of a LinkedIn post: low energy hurts your personality, promotions and burnout risk; three things to start today — improve your diet, set learning goals to build confidence, do low-stress activity like walking — because energy comes from progressive overload on brain and body | 2026-10-27 |
 
 ---
 

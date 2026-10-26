@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 177 items done_
+> _0 of 187 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -80,6 +80,7 @@ _From [papers.md](papers.md)_
 - [ ] [Voyager: An Open-Ended Embodied Agent with Large Language Models — Guanzhi Wang et al.](https://arxiv.org/abs/2305.16291)
 - [ ] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation — Qingyun Wu et al.](https://arxiv.org/abs/2308.08155)
 - [ ] [A Survey on Large Language Model based Autonomous Agents — Lei Wang et al.](https://arxiv.org/abs/2308.11432)
+- [ ] [Scaling On-Device GPU Inference for Large Generative Models — Jiuqiang Tang et al.](papers/1792442632682.pdf)
 
 ## 🎓 Courses & Certifications
 
@@ -106,6 +107,7 @@ _From [tutorials.md](tutorials.md)_
 - [ ] [How to Build and Deploy a Multi-Agent AI System with Python and Docker — Balajee Asish Brahmandam (freeCodeCamp)](https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/)
 - [ ] [16x Faster, 70% Smaller: Quantizing Qwen2.5-Coder for High-Throughput CPU Inference — Souvick R.](https://www.linkedin.com/pulse/16x-faster-70-smaller-quantizing-qwen25-coder-cpu-inference-roy-sr4oc/)
 - [ ] [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides)
+- [ ] [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home)
 
 ## ✍️ Blogs to Follow
 
@@ -225,6 +227,11 @@ _From [infographics/README.md](infographics/README.md)_
 - [ ] [What runs behind an AI chat app? — vLLM + SGLang bootcamp (Vizuara)](infographics/1792910282623.jpg)
 - [ ] [7 ways to make an LLM faster — PracticAI](infographics/1792921824335.gif)
 - [ ] [When the KV cache disk fills up](infographics/1792934593054.gif)
+- [ ] [5 Techniques to Fine-Tune LLMs — @mshee (Decoding AI with Context)](infographics/1792578592679.gif)
+- [ ] [How Can a 14 GB Model Suddenly Fit in 5 GB? — Gaurav Thakur (AI Pulse, AI Engineering in 5 Minutes #008)](infographics/1792906080672.gif)
+- [ ] [Backpropagation: Trace the error back to the weights — JoinAI](infographics/1792940577366.jpg)
+- [ ] [From OpenCL to CUDA — Day 1, CUDA from first principles (Tesla T4)](infographics/1792996422503.jpg)
+- [ ] [Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science](infographics/1793010974944.gif)
 
 ## 💪 Motivation
 
@@ -241,6 +248,9 @@ _From [motivation/README.md](motivation/README.md)_
 - [ ] [Master The Art of Resilience — Josh Sanders](motivation/1792582097951.jpg)
 - [ ] [Don't complain, ever — Sahil Bloom](motivation/1792733025973.jpg)
 - [ ] [7 Types of Rest — Dr. Miro Bada](motivation/1792839237512.jpg)
+- [ ] [How To Present To Senior Leadership — Cicely Simpson](motivation/1792881108429.jpg)
+- [ ] [20 minutes of doing beats 20 hours of thinking about doing](motivation/1792985390338.jpg)
+- [ ] [If you are a low energy person — Akshat Shrivastava](motivation/energy_personality.png)
 
 ## 🎤 Interview
 
@@ -261,7 +271,7 @@ _From [interview/README.md](interview/README.md)_
 
 ## Progress
 
-**Completed 0 out of 177 items — 0%**
+**Completed 0 out of 187 items — 0%**
 
 ## Comments
 

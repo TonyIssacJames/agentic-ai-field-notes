@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 70 infographics saved so far
+> ## 🖼️ 75 infographics saved so far
 >
-> _Last added: When the KV cache disk fills up — 2026-10-26_
+> _Last added: Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science — 2026-10-27_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -58,6 +58,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 62 | [The Modern AI Agent Stack You Must Know in 2026 — Brij Kishore Pandey](1788450286617.jpg) | Twelve illustrated terms in a chain: RAG, context, memory, agent, agentic AI, tools, MCP, skills, hooks, subagents, orchestration, eval — one line each | 2026-10-26 |
 | 63 | [7 Layers of AI](1792329473899.jpg) | Mountain-climb diagram from classical AI up through machine learning, neural networks, deep learning, generative AI and agentic AI to AGI at the summit; marks generative AI as where today's chat tools sit, agentic AI as the current frontier and AGI as not yet achieved | 2026-10-26 |
 | 67 | [Building Reasoning Models from the ground up](1792883961031.jpg) | Course poster (8 coding videos, 11+ hours, Python + PyTorch) with the techniques it covers: GRPO training loop, KV caching, self-consistency, answer verification, self-refinement, policy clipping and knowledge distillation. Author not shown on the image | 2026-10-26 |
+| 71 | [5 Techniques to Fine-Tune LLMs — @mshee (Decoding AI with Context)](1792578592679.gif) | Animated: five ways to train only a few weights of a frozen model — LoRA, LoRA-FA, VeRA, Delta-LoRA and LoRA+ — each with a diagram of which matrices are frozen or trainable and the update formula | 2026-10-27 |
+| 73 | [Backpropagation: Trace the error back to the weights — JoinAI](1792940577366.jpg) | One scalar weight followed through a forward pass, the chain rule and an optimizer update (loss falls from 4 to 0.16 at learning rate 0.1), with four takeaways and the same step in a few lines of Python | 2026-10-27 |
 
 ## GPU / Performance
 
@@ -81,6 +83,9 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 68 | [What runs behind an AI chat app? — vLLM + SGLang bootcamp (Vizuara)](1792910282623.jpg) | Self-hosted LLM serving stack: chat app → API gateway (auth, rate limits) → router (sends each chat to the replica with its prefix cached) → vLLM replicas on GPUs, with metrics (queue length, TTFT, tokens/s) feeding an autoscaler | 2026-10-26 |
 | 69 | [7 ways to make an LLM faster — PracticAI](1792921824335.gif) | Animated cards: quantization, knowledge distillation, KV caching, continuous batching, speculative decoding, tensor parallelism and pipeline parallelism, plus a "which one when?" guide (model too big, tokens too slow, too many users) | 2026-10-26 |
 | 70 | [When the KV cache disk fills up](1792934593054.gif) | Animated before/after of KV cache offload from GPU to CPU memory to disk: what happens to writes when the disk fills and when space is freed, with the fix from PR #61780. Author and project are not named on the image | 2026-10-26 |
+| 72 | [How Can a 14 GB Model Suddenly Fit in 5 GB? — Gaurav Thakur (AI Pulse, AI Engineering in 5 Minutes #008)](1792906080672.gif) | Animated: quantization step by step, starting from higher-precision FP16 / BF16 weights — more precision means more bytes per parameter | 2026-10-27 |
+| 74 | [From OpenCL to CUDA — Day 1, CUDA from first principles (Tesla T4)](1792996422503.jpg) | Translation table (__kernel → __global__, work-item → thread, work-group → block, NDRange → grid, local → shared memory, sub-group → warp of 32) plus lessons from a first Tesla T4 run: launches are async, block order is not guaranteed, size blocks in multiples of 32. Author not shown on the image | 2026-10-27 |
+| 75 | [Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science](1793010974944.gif) | Animated: argmax picks the top logit but logits shift between runs because fp16 addition is order-dependent, batch size changes how each sum is split across cores and other users set the batch size, and a near tie flips one token and every later one | 2026-10-27 |
 
 ## Digital Verification
 

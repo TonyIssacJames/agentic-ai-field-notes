@@ -16,6 +16,8 @@ Entries here are **not** logged in [history.md](history.md) and do not count tow
 - [ ] [Voyager: An Open-Ended Embodied Agent with Large Language Models — Guanzhi Wang et al.](https://arxiv.org/abs/2305.16291) — Lifelong-learning agent that explores Minecraft and writes its own skill library *(AI / LLM)*
 - [ ] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation — Qingyun Wu et al.](https://arxiv.org/abs/2308.08155) — Multi-agent conversation framework behind Microsoft's AutoGen library *(AI / LLM)*
 - [ ] [A Survey on Large Language Model based Autonomous Agents — Lei Wang et al.](https://arxiv.org/abs/2308.11432) — Maps the whole field into construction, application and evaluation *(AI / LLM)*
+- [ ] [Scaling On-Device GPU Inference for Large Generative Models — Jiuqiang Tang et al.](papers/1792442632682.pdf) — Google's ML Drift, a cross-platform GPU inference engine (OpenCL, Metal, OpenGL ES, Vulkan, WebGPU) built on tensor virtualization, which decouples logical tensor indices from physical GPU memory layouts; runs generative models 10 to 100× larger than existing on-device engines, with Gemma2 2B at 1370 tokens/s prefill on a mobile GPU *(GPU / Performance)*
+  - Related: [arXiv abstract (2505.00232)](https://arxiv.org/abs/2505.00232) · [ML Drift repo — google-ai-edge/ml-drift (GitHub)](https://github.com/google-ai-edge/ml-drift) · [Pull request #23 — samples/llm: skip non-text tensors in extract_weights_hf; fix README errors](https://github.com/google-ai-edge/ml-drift/pull/23)
 
 ## Currently Reading
 

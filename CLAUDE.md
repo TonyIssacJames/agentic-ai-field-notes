@@ -84,6 +84,8 @@ Papers get their own root page, with the four subject headings and the same stag
 
 **Entries here are exempt from `history.md`**: no row, no count bump. The owner's call — papers are kept apart from the artifact total. Because they are exempt, the `history.md` duplicate sweep cannot see them, so grep `papers.md` itself (for the arXiv ID or slug) before adding a paper. Papers do still get a checkbox line in `TODO.md` once real entries exist, like any other type page.
 
+A paper the owner saves as a PDF goes in the `papers/` folder and is catalogued here in `papers.md` (linking the file, not a separate README). Links the owner supplies alongside it — repo, pull request, arXiv page — go in a `Related:` sub-bullet under the paper's entry, not as entries of their own.
+
 ### `ideas.md` — ideas to implement
 
 The owner's own project ideas, not collected material: a `To Implement` list grouped by subject (`AI / LLM`, `GPU / Performance`, `Digital Verification`, `Computer Architecture`, `Engineering / General`). Only headings that have an idea exist — add a subject heading when its first idea arrives, and add `In Progress` / `Done` sections when something first moves into them. Entries are `- [ ] **Title** — what and why`; when an idea came from a saved link, add a link back to that entry. Move an idea between sections instead of duplicating it.

@@ -2,9 +2,9 @@
 
 Images worth coming back to — lists of sentences, mindset frameworks and career advice saved as pictures. The written equivalent is [motivational_quotes.md](../motivational_quotes.md). Click a file name to view or download it on GitHub.
 
-> ## 💪 14 images saved so far
+> ## 💪 16 images saved so far
 >
-> _Last added: If you are a low energy person — Akshat Shrivastava — 2026-10-27_
+> _Last added: The neuroscience of why your environment matters — 2026-10-28_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total.
 
@@ -26,6 +26,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 12 | [How To Present To Senior Leadership — Cicely Simpson](1792881108429.jpg) | Six rules for a decision-making room: the 20-word ask, lead with the decision on slide 2, give only the context needed to decide, hold a 3-second opening silence, anticipate the three objections, end on a single repeatable sentence | 2026-10-27 |
 | 13 | [20 minutes of doing beats 20 hours of thinking about doing](1792985390338.jpg) | Photo of a highlighted book page: "20 minutes of doing something is more valuable than 20 hours of thinking about doing something." Book and author not shown | 2026-10-27 |
 | 14 | [If you are a low energy person — Akshat Shrivastava](energy_personality.png) | Screenshot of a LinkedIn post: low energy hurts your personality, promotions and burnout risk; three things to start today — improve your diet, set learning goals to build confidence, do low-stress activity like walking — because energy comes from progressive overload on brain and body | 2026-10-27 |
+| 15 | ["If you can overthink the worst, why can't you overthink the best?"](1793011494009.jpg) | Highlighted book-page quote: the same habit of overthinking can be pointed at what could go right instead of what could go wrong | 2026-10-28 |
+| 16 | [The neuroscience of why your environment matters](1793104719044.gif) | Animated: three domes with different group mindsets ("stay with what you know", "what if it goes wrong?", "let's see what's possible"); the people and spaces around you become your reference point for what feels normal and possible | 2026-10-28 |
 
 ---
 

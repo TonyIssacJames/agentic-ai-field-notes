@@ -18,6 +18,8 @@ Entries here are **not** logged in [history.md](history.md) and do not count tow
 - [ ] [A Survey on Large Language Model based Autonomous Agents — Lei Wang et al.](https://arxiv.org/abs/2308.11432) — Maps the whole field into construction, application and evaluation *(AI / LLM)*
 - [ ] [Scaling On-Device GPU Inference for Large Generative Models — Jiuqiang Tang et al.](papers/1792442632682.pdf) — Google's ML Drift, a cross-platform GPU inference engine (OpenCL, Metal, OpenGL ES, Vulkan, WebGPU) built on tensor virtualization, which decouples logical tensor indices from physical GPU memory layouts; runs generative models 10 to 100× larger than existing on-device engines, with Gemma2 2B at 1370 tokens/s prefill on a mobile GPU *(GPU / Performance)*
   - Related: [arXiv abstract (2505.00232)](https://arxiv.org/abs/2505.00232) · [ML Drift repo — google-ai-edge/ml-drift (GitHub)](https://github.com/google-ai-edge/ml-drift) · [Pull request #23 — samples/llm: skip non-text tensors in extract_weights_hf; fix README errors](https://github.com/google-ai-edge/ml-drift/pull/23)
+- [ ] [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought — Zhengye Bao et al.](papers/2610.30755v1.pdf) — Raw-history RAG (dense retrieval plus reranking, no memory mutation) ranks first among compared memory systems in six of seven benchmark-model settings on LoCoMo, LongMemEval, MEME and MemoryAgentBench, beating the strongest agentic memory system by 0.13–5.53 points at a fraction of the ingestion cost *(AI / LLM)*
+  - Related: [arXiv abstract (2610.30755)](https://arxiv.org/abs/2610.30755) · [RAW-RAG repo — Litmeb/RAW-RAG (GitHub)](https://github.com/Litmeb/RAW-RAG)
 
 ## Currently Reading
 

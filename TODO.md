@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 187 items done_
+> _0 of 200 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -56,6 +56,7 @@ _From [youtube.md](youtube.md)_
 - [ ] [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A)
 - [ ] [Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing](https://www.youtube.com/watch?v=46L0eoeh8v4)
 - [ ] [Post-training Agents (Hugging Face playlist)](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvQZm-kVlz4wY1vWF0LBcf5)
+- [ ] [How to code Claude Code in ~200 lines of code — The Modern Software Developer](https://www.youtube.com/watch?v=s7ZzkdvCMDY)
 
 ## 📚 Books
 
@@ -81,6 +82,7 @@ _From [papers.md](papers.md)_
 - [ ] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation — Qingyun Wu et al.](https://arxiv.org/abs/2308.08155)
 - [ ] [A Survey on Large Language Model based Autonomous Agents — Lei Wang et al.](https://arxiv.org/abs/2308.11432)
 - [ ] [Scaling On-Device GPU Inference for Large Generative Models — Jiuqiang Tang et al.](papers/1792442632682.pdf)
+- [ ] [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought — Zhengye Bao et al.](papers/2610.30755v1.pdf)
 
 ## 🎓 Courses & Certifications
 
@@ -108,6 +110,7 @@ _From [tutorials.md](tutorials.md)_
 - [ ] [16x Faster, 70% Smaller: Quantizing Qwen2.5-Coder for High-Throughput CPU Inference — Souvick R.](https://www.linkedin.com/pulse/16x-faster-70-smaller-quantizing-qwen25-coder-cpu-inference-roy-sr4oc/)
 - [ ] [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides)
 - [ ] [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home)
+- [ ] [CS146S: The Modern Software Developer — Stanford University (Mihail Eric)](https://themodernsoftware.dev/)
 
 ## ✍️ Blogs to Follow
 
@@ -138,6 +141,8 @@ _From [documents/README.md](documents/README.md)_
 - [ ] [How to Remember Everything You Read — Polymathinvestor](documents/1031.pdf)
 - [ ] [AI Evals: Measuring what matters in LLM apps and agents — AI engineering field guide (2026 edition)](documents/1792238416947.pdf)
 - [ ] [Building Small Language Models — Andrej Karpathy (Small Language Model Engineering 2026)](documents/Andrej-Karpathy-Small-LLMs-Setup.pdf)
+- [ ] [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems — Jiacheng Liu et al. (arXiv 2604.14228v3)](documents/2604.14228v3.pdf)
+- [ ] [Evaluating AI agent applications — Weights & Biases whitepaper](documents/Evaluations-whitepaper.pdf)
 
 ## 📑 PDFs
 
@@ -232,6 +237,12 @@ _From [infographics/README.md](infographics/README.md)_
 - [ ] [Backpropagation: Trace the error back to the weights — JoinAI](infographics/1792940577366.jpg)
 - [ ] [From OpenCL to CUDA — Day 1, CUDA from first principles (Tesla T4)](infographics/1792996422503.jpg)
 - [ ] [Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science](infographics/1793010974944.gif)
+- [ ] [5 Embedding Compression Techniques](infographics/1792584702425.jpg)
+- [ ] [What is Harness Engineering? — ByteByteGo](infographics/1792691713361.gif)
+- [ ] [Why does a 7B LLM run out of GPU memory when the weights are only 14 GB?](infographics/1792867044887.jpg)
+- [ ] [Reduce LLM Costs by 70% Without Hurting Quality](infographics/1793005808514.jpg)
+- [ ] [Efficient LLM Inference: Systems, Algorithms & Production Engineering — Interview Pocket Notes — Lamhot Siagian (AI Engineering Insider)](infographics/HVmBqjYXsAAGIHo.png)
+- [ ] [Second Brain Architecture v1.0 — persistent context management](infographics/HVpMzt1W0AA4sRQ.jpg)
 
 ## 💪 Motivation
 
@@ -251,6 +262,8 @@ _From [motivation/README.md](motivation/README.md)_
 - [ ] [How To Present To Senior Leadership — Cicely Simpson](motivation/1792881108429.jpg)
 - [ ] [20 minutes of doing beats 20 hours of thinking about doing](motivation/1792985390338.jpg)
 - [ ] [If you are a low energy person — Akshat Shrivastava](motivation/energy_personality.png)
+- [ ] ["If you can overthink the worst, why can't you overthink the best?"](motivation/1793011494009.jpg)
+- [ ] [The neuroscience of why your environment matters](motivation/1793104719044.gif)
 
 ## 🎤 Interview
 
@@ -271,7 +284,7 @@ _From [interview/README.md](interview/README.md)_
 
 ## Progress
 
-**Completed 0 out of 187 items — 0%**
+**Completed 0 out of 200 items — 0%**
 
 ## Comments
 

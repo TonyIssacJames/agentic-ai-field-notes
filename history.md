@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 62 artifacts added so far
+> ## 📈 64 artifacts added so far
 >
-> _Last added: AI Agent Developer Bootcamp — aiagent.org — 2026-10-27_
+> _Last added: CS146S: The Modern Software Developer — Stanford University (Mihail Eric) — 2026-10-27_
 
 ---
 
@@ -74,6 +74,8 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 60 | [LLM Inference Optimization — Rishabh Misra (Udacity)](https://www.udacity.com/course/llm-inference-optimization--cd14455) | Course | GPU / Performance | 2026-10-23 |
 | 61 | [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides) | Tutorial | AI / LLM | 2026-10-24 |
 | 62 | [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home) | Tutorial | AI / LLM | 2026-10-27 |
+| 63 | [How to code Claude Code in ~200 lines of code — The Modern Software Developer](https://www.youtube.com/watch?v=s7ZzkdvCMDY) | Video | AI / LLM | 2026-10-27 |
+| 64 | [CS146S: The Modern Software Developer — Stanford University (Mihail Eric)](https://themodernsoftware.dev/) | Tutorial | AI / LLM | 2026-10-27 |
 
 ---
 

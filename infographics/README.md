@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 75 infographics saved so far
+> ## 🖼️ 81 infographics saved so far
 >
-> _Last added: Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science — 2026-10-27_
+> _Last added: Second Brain Architecture v1.0 — persistent context management — 2026-10-28_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -60,6 +60,10 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 67 | [Building Reasoning Models from the ground up](1792883961031.jpg) | Course poster (8 coding videos, 11+ hours, Python + PyTorch) with the techniques it covers: GRPO training loop, KV caching, self-consistency, answer verification, self-refinement, policy clipping and knowledge distillation. Author not shown on the image | 2026-10-26 |
 | 71 | [5 Techniques to Fine-Tune LLMs — @mshee (Decoding AI with Context)](1792578592679.gif) | Animated: five ways to train only a few weights of a frozen model — LoRA, LoRA-FA, VeRA, Delta-LoRA and LoRA+ — each with a diagram of which matrices are frozen or trainable and the update formula | 2026-10-27 |
 | 73 | [Backpropagation: Trace the error back to the weights — JoinAI](1792940577366.jpg) | One scalar weight followed through a forward pass, the chain rule and an optimizer update (loss falls from 4 to 0.16 at learning rate 0.1), with four takeaways and the same step in a few lines of Python | 2026-10-27 |
+| 76 | [5 Embedding Compression Techniques](1792584702425.jpg) | Five-step flows for MRL (up to 8× smaller), scalar/int8 (4×), binary (32×), product quantization (up to 97%) and PCA (flexible), each with the one-line reason it works | 2026-10-28 |
+| 77 | [What is Harness Engineering? — ByteByteGo](1792691713361.gif) | Animated: user goal → context builder → LLM → policy gate → tools/runtime → verify → accepted result, with observability and constraints wrapped around the loop and feedback signals returning to context | 2026-10-28 |
+| 79 | [Reduce LLM Costs by 70% Without Hurting Quality](1793005808514.jpg) | Six levers (model routing, context engineering, prompt caching, semantic caching, agentic-loop trimming, batching) on a quality-gated reference architecture; the $10,000 → $2,926 breakdown is illustrative, not measured | 2026-10-28 |
+| 81 | [Second Brain Architecture v1.0 — persistent context management](HVpMzt1W0AA4sRQ.jpg) | Raw → wiki → retrieve/use/output → CLAUDE.md → update loop, with a raw/ wiki/ output/ ctx/ mem/ directory layout and five automations (ingest, write, manage, review, maintain) | 2026-10-28 |
 
 ## GPU / Performance
 
@@ -86,6 +90,8 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 72 | [How Can a 14 GB Model Suddenly Fit in 5 GB? — Gaurav Thakur (AI Pulse, AI Engineering in 5 Minutes #008)](1792906080672.gif) | Animated: quantization step by step, starting from higher-precision FP16 / BF16 weights — more precision means more bytes per parameter | 2026-10-27 |
 | 74 | [From OpenCL to CUDA — Day 1, CUDA from first principles (Tesla T4)](1792996422503.jpg) | Translation table (__kernel → __global__, work-item → thread, work-group → block, NDRange → grid, local → shared memory, sub-group → warp of 32) plus lessons from a first Tesla T4 run: launches are async, block order is not guaranteed, size blocks in multiples of 32. Author not shown on the image | 2026-10-27 |
 | 75 | [Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science](1793010974944.gif) | Animated: argmax picks the top logit but logits shift between runs because fp16 addition is order-dependent, batch size changes how each sum is split across cores and other users set the batch size, and a near tie flips one token and every later one | 2026-10-27 |
+| 78 | [Why does a 7B LLM run out of GPU memory when the weights are only 14 GB?](1792867044887.jpg) | KV cache is the culprit: 10 users × 4K tokens ≈ 20 GB on top of 14 GB of weights on a 40 GB A100. Fixes: PagedAttention, GQA, KV-cache quantization, prefix caching, continuous batching | 2026-10-28 |
+| 80 | [Efficient LLM Inference: Systems, Algorithms & Production Engineering — Interview Pocket Notes — Lamhot Siagian (AI Engineering Insider)](HVmBqjYXsAAGIHo.png) | Cover image only (2nd edition, 2026); the book covers quantization, speculative decoding, KV cache, FlashAttention, vLLM, MoE, edge inference, production systems and inference-time scaling. The PDF itself is not saved here | 2026-10-28 |
 
 ## Digital Verification
 

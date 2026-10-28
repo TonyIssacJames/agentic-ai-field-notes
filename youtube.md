@@ -21,6 +21,7 @@ Videos worth watching, revisiting, or keeping as references.
 - [ ] [Make Claude Code 10x Better and Cheaper: 16 Research-Backed Tips — Aish Reganti](https://www.youtube.com/watch?v=quU2MM2k45A) — Sixteen tips for getting more out of Claude Code at lower token cost, presented as research-backed rather than anecdotal
 - [ ] [Sundar Pichai: "Learn to Orchestrate AI Agents Now or Spend 2027 Catching Up" — University of Digital Marketing](https://www.youtube.com/watch?v=46L0eoeh8v4) — Clip of Google's CEO on why learning to orchestrate AI agents now, rather than later, will matter competitively
 - [ ] [Post-training Agents (Hugging Face playlist)](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvQZm-kVlz4wY1vWF0LBcf5) — Live 2026 sessions on training and scaling agents: RL for agents, fine-tuning coding agents, model distillation, reward functions/environments, and agent evals ([companion slides](tutorials.md))
+- [ ] [How to code Claude Code in ~200 lines of code — The Modern Software Developer](https://www.youtube.com/watch?v=s7ZzkdvCMDY) — Builds a working Claude Code-style coding agent in about 200 lines, showing how little is underneath the tool ("the emperor has no clothes"); adapted from a lecture in the creators' AI coding course at Stanford. About 45 minutes
 - [ ] [Video title](https://youtube.com/) — Topic / reason
 
 ## Currently Watching

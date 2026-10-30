@@ -19,6 +19,7 @@ Online courses, certifications and structured learning paths.
 
 - [Agentic AI Bootcamp: Build Autonomous AI Systems in 3 Days — School of AI](https://www.udemy.com/course/agentic-ai-bootcamp-build-autonomous-ai-systems-in-3-days/) — Udemy; ~4 h over 22 lectures: the ReAct loop, then multi-agent systems with LangGraph, CrewAI and AutoGen, then evaluation, guardrails and observability, ending in a production-style multi-agent capstone
 - [GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever](https://agilefever.com/bootcamps/agentic-ai-bootcamp/) — Instructor-led paid bootcamp; 74 h over 8 weeks (64 live + 10 self-paced) for experienced IT professionals: GenAI, RAG, multi-agent architectures and cloud deployment on Azure, AWS and GCP
+- [Building AI Agent Harnesses with Strands Agents — Amazon Web Services (Morgan Willis)](https://www.coursera.org/learn/build-ai-agents) — Coursera; beginner, ~6 h self-paced over 5 modules: the agent loop and MCP tools, hooks/plugins/skills/steering, context and memory management, multi-agent orchestration (agents-as-tools, graphs, swarms), then evaluation and deployment to Amazon Bedrock AgentCore
 
 ## GPU / Performance
 

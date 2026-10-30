@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 64 artifacts added so far
+> ## 📈 66 artifacts added so far
 >
-> _Last added: CS146S: The Modern Software Developer — Stanford University (Mihail Eric) — 2026-10-27_
+> _Last added: The Ultimate Guide to LLM Inference Optimization, Part 1 — Ashish Abraham — 2026-10-30_
 
 ---
 
@@ -76,6 +76,8 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 62 | [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home) | Tutorial | AI / LLM | 2026-10-27 |
 | 63 | [How to code Claude Code in ~200 lines of code — The Modern Software Developer](https://www.youtube.com/watch?v=s7ZzkdvCMDY) | Video | AI / LLM | 2026-10-27 |
 | 64 | [CS146S: The Modern Software Developer — Stanford University (Mihail Eric)](https://themodernsoftware.dev/) | Tutorial | AI / LLM | 2026-10-27 |
+| 65 | [Building AI Agent Harnesses with Strands Agents — Amazon Web Services (Morgan Willis)](https://www.coursera.org/learn/build-ai-agents) | Course | AI / LLM | 2026-10-28 |
+| 66 | [The Ultimate Guide to LLM Inference Optimization, Part 1 — Ashish Abraham](https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d) | Tutorial | GPU / Performance | 2026-10-30 |
 
 ---
 

@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 81 infographics saved so far
+> ## 🖼️ 83 infographics saved so far
 >
-> _Last added: Second Brain Architecture v1.0 — persistent context management — 2026-10-28_
+> _Last added: Finetuning: 5 Techniques — Lan Chu — 2026-10-30_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -64,6 +64,7 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 77 | [What is Harness Engineering? — ByteByteGo](1792691713361.gif) | Animated: user goal → context builder → LLM → policy gate → tools/runtime → verify → accepted result, with observability and constraints wrapped around the loop and feedback signals returning to context | 2026-10-28 |
 | 79 | [Reduce LLM Costs by 70% Without Hurting Quality](1793005808514.jpg) | Six levers (model routing, context engineering, prompt caching, semantic caching, agentic-loop trimming, batching) on a quality-gated reference architecture; the $10,000 → $2,926 breakdown is illustrative, not measured | 2026-10-28 |
 | 81 | [Second Brain Architecture v1.0 — persistent context management](HVpMzt1W0AA4sRQ.jpg) | Raw → wiki → retrieve/use/output → CLAUDE.md → update loop, with a raw/ wiki/ output/ ctx/ mem/ directory layout and five automations (ingest, write, manage, review, maintain) | 2026-10-28 |
+| 83 | [Finetuning: 5 Techniques — Lan Chu](1793199510353.jpg) | Hand-drawn parameter counts for a toy 800×500 weight and a 70B model: full fine-tuning (100%), LoRA (~1.2%), QLoRA (LoRA on a 4-bit base, 140 GB → 35 GB), LoRA-FA (~0.6%) and TinyLoRA (as few as 13 parameters) | 2026-10-30 |
 
 ## GPU / Performance
 
@@ -111,6 +112,7 @@ _Nothing yet._
 | 33 | [OOP Concepts in Python](HVICzcPbAAALONE.jpg) | Class, object, encapsulation, abstraction, inheritance and polymorphism, each with a short annotated code sample and its output | 2026-10-21 |
 | 58 | [DSA was HARD until I learned these 15 patterns — algomaster.io](1792803914639.gif) | Animated: two pointers, sliding window, binary search, frequency counting, matrix traversal, monotonic stack, prefix sum, intervals, greedy, top K, backtracking, tree traversal, DFS, BFS and dynamic programming | 2026-10-24 |
 | 66 | [Latency vs Throughput vs Bandwidth — Neo Kim](1792846245617.jpg) | Three columns: definition, highway analogy, how each is measured, what it improves and what to check when it is poor | 2026-10-26 |
+| 82 | [Where Do You Start with Quantum Computing? — Project-Q](1793076832491.jpg) | Six-step learner roadmap: qubit basics, circuits and gates, algorithms (Shor, Grover, VQE, QAOA), simulation with Qiskit, hardware (superconducting, trapped-ion, photonic), then research and applications | 2026-10-30 |
 
 ## Personal / Career Growth
 

@@ -20,6 +20,7 @@ Entries here are **not** logged in [history.md](history.md) and do not count tow
   - Related: [arXiv abstract (2505.00232)](https://arxiv.org/abs/2505.00232) · [ML Drift repo — google-ai-edge/ml-drift (GitHub)](https://github.com/google-ai-edge/ml-drift) · [Pull request #23 — samples/llm: skip non-text tensors in extract_weights_hf; fix README errors](https://github.com/google-ai-edge/ml-drift/pull/23)
 - [ ] [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought — Zhengye Bao et al.](papers/2610.30755v1.pdf) — Raw-history RAG (dense retrieval plus reranking, no memory mutation) ranks first among compared memory systems in six of seven benchmark-model settings on LoCoMo, LongMemEval, MEME and MemoryAgentBench, beating the strongest agentic memory system by 0.13–5.53 points at a fraction of the ingestion cost *(AI / LLM)*
   - Related: [arXiv abstract (2610.30755)](https://arxiv.org/abs/2610.30755) · [RAW-RAG repo — Litmeb/RAW-RAG (GitHub)](https://github.com/Litmeb/RAW-RAG)
+- [ ] [Dynamic Compressing Prompts for Efficient Inference of Large Language Models — Jinwu Hu et al.](papers/2504.11004v1.pdf) — LLM-DCP: prompt compression framed as a Markov decision process, where an RL agent drops redundant tokens step by step without needing a black-box LLM for training; a hierarchical curriculum raises compression difficulty gradually, reaching up to 12.9× compression and +3.04 Rouge-2 over the prior best on Arxiv-March23 *(AI / LLM)*
 
 ## Currently Reading
 

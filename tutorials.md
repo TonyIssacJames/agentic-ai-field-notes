@@ -12,6 +12,10 @@ Step-by-step guides and how-tos.
 - [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home) — Self-paced curriculum of 9 modules (ReAct loops, tool invocation, multi-agent orchestration, Model Context Protocol, execution sandboxing, agent-to-agent security) with a progress tracker and certificate, plus a browser playground for 7 runnable agent patterns, 51 engineering tutorials and interview-prep and system-design hubs. Lessons load in the page itself, so skim the module list first
 - [CS146S: The Modern Software Developer — Stanford University (Mihail Eric)](https://themodernsoftware.dev/) — Course site for Stanford's 3-unit class on AI-native software development: MCP, agent skills, spec-driven development, loop engineering and the software factory, with a syllabus, weekly lectures, assignments and practitioner guest talks. Its lecture on building a Claude Code-style agent is also saved as a [video](youtube.md)
 
+## GPU / Performance
+
+- [The Ultimate Guide to LLM Inference Optimization, Part 1 — Ashish Abraham](https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d) — Towards AI; the model-level half of a three-part series: making an LLM respond faster, cheaper or on fewer resources without giving up acceptable quality, starting from quantization (lower-precision weights, down to 1-bit models). Part 3 covers serving software
+
 ---
 
 [← Home](README.md)

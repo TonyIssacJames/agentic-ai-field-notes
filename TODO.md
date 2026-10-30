@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 200 items done_
+> _0 of 205 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -83,6 +83,7 @@ _From [papers.md](papers.md)_
 - [ ] [A Survey on Large Language Model based Autonomous Agents — Lei Wang et al.](https://arxiv.org/abs/2308.11432)
 - [ ] [Scaling On-Device GPU Inference for Large Generative Models — Jiuqiang Tang et al.](papers/1792442632682.pdf)
 - [ ] [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought — Zhengye Bao et al.](papers/2610.30755v1.pdf)
+- [ ] [Dynamic Compressing Prompts for Efficient Inference of Large Language Models — Jinwu Hu et al.](papers/2504.11004v1.pdf)
 
 ## 🎓 Courses & Certifications
 
@@ -97,6 +98,7 @@ _From [courses.md](courses.md)_
 - [ ] [CS329A: Self-Improving AI Agents — Stanford (Aakanksha Chowdhery & Azalia Mirhoseini)](https://cs329a.stanford.edu/#intro)
 - [ ] [Agentic AI Bootcamp: Build Autonomous AI Systems in 3 Days — School of AI](https://www.udemy.com/course/agentic-ai-bootcamp-build-autonomous-ai-systems-in-3-days/)
 - [ ] [GenAI and Agentic AI BootCamp: 14+ Projects, 8 Capstones — AgileFever](https://agilefever.com/bootcamps/agentic-ai-bootcamp/)
+- [ ] [Building AI Agent Harnesses with Strands Agents — Amazon Web Services (Morgan Willis)](https://www.coursera.org/learn/build-ai-agents)
 - [ ] [LLM Inference Optimization — Rishabh Misra (Udacity)](https://www.udacity.com/course/llm-inference-optimization--cd14455)
 - [ ] [High Performance without Burnout — Dr. Ruth Gotian](https://www.linkedin.com/learning/high-performance-without-burnout)
 - [ ] [TOGAF® Enterprise Architecture: Foundation & Practitioner — Knowlathon](https://knowlathon.com/in/en/course/togaf-enterprise-architecture-foundation-practitioner-course)
@@ -111,6 +113,7 @@ _From [tutorials.md](tutorials.md)_
 - [ ] [Train the agent, not just the model — Sergio Paniego Blanco (Hugging Face slides)](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides)
 - [ ] [AI Agent Developer Bootcamp — aiagent.org](https://aiagent.org/bootcamp/#home)
 - [ ] [CS146S: The Modern Software Developer — Stanford University (Mihail Eric)](https://themodernsoftware.dev/)
+- [ ] [The Ultimate Guide to LLM Inference Optimization, Part 1 — Ashish Abraham](https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d)
 
 ## ✍️ Blogs to Follow
 
@@ -243,6 +246,8 @@ _From [infographics/README.md](infographics/README.md)_
 - [ ] [Reduce LLM Costs by 70% Without Hurting Quality](infographics/1793005808514.jpg)
 - [ ] [Efficient LLM Inference: Systems, Algorithms & Production Engineering — Interview Pocket Notes — Lamhot Siagian (AI Engineering Insider)](infographics/HVmBqjYXsAAGIHo.png)
 - [ ] [Second Brain Architecture v1.0 — persistent context management](infographics/HVpMzt1W0AA4sRQ.jpg)
+- [ ] [Finetuning: 5 Techniques — Lan Chu](infographics/1793199510353.jpg)
+- [ ] [Where Do You Start with Quantum Computing? — Project-Q](infographics/1793076832491.jpg)
 
 ## 💪 Motivation
 
@@ -284,7 +289,7 @@ _From [interview/README.md](interview/README.md)_
 
 ## Progress
 
-**Completed 0 out of 200 items — 0%**
+**Completed 0 out of 205 items — 0%**
 
 ## Comments
 

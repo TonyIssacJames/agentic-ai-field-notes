@@ -4,7 +4,7 @@ Everything saved in this repo that is still to be read, watched, studied or look
 
 > ## ✅ 0% complete
 >
-> _0 of 205 items done_
+> _0 of 223 items done_
 
 This list mirrors the other pages; it does not move entries between their `To Read` / `Finished` stages. Placeholder rows are not listed.
 
@@ -34,6 +34,7 @@ _From [articles.md](articles.md)_
 - [ ] [Sharding a Model Changes When Memory Is Needed — Chao Ma (CS336 Lecture 8 notes)](https://ickma2311.github.io/ML/CS336/lecture08-parallelism-ii.html)
 - [ ] [Parallel Training Starts with Deciding What Moves — Chao Ma (CS336 Lecture 7 notes)](https://ickma2311.github.io/ML/CS336/lecture07-parallelism-i.html)
 - [ ] [Open Language Models — Nathan Lambert (Harvard CS 2881R guest lecture)](https://natolambert.com/slides/2026/harvard/lecture.html#21)
+- [ ] [I Put Several AI Agent Teams on One H100. Here Is What Broke. — Anuj Dutt](https://www.linkedin.com/pulse/i-put-several-ai-agent-teams-one-h100-here-what-broke-anuj-dutt-lnibc/)
 
 ## 🎥 YouTube Videos
 
@@ -128,6 +129,12 @@ _From [blogs.md](blogs.md)_
 _From [agentic-tools.md](agentic-tools.md)_
 
 - [ ] [NVIDIA Nsight AI](https://developer.nvidia.com/nsight-ai)
+
+## 📦 Repositories
+
+_From [repos.md](repos.md)_
+
+- [ ] [DumpAnalysis/SparkBook](https://github.com/DumpAnalysis/SparkBook)
 
 ## 🏁 Benchmarks
 
@@ -248,6 +255,22 @@ _From [infographics/README.md](infographics/README.md)_
 - [ ] [Second Brain Architecture v1.0 — persistent context management](infographics/HVpMzt1W0AA4sRQ.jpg)
 - [ ] [Finetuning: 5 Techniques — Lan Chu](infographics/1793199510353.jpg)
 - [ ] [Where Do You Start with Quantum Computing? — Project-Q](infographics/1793076832491.jpg)
+- [ ] [Frontier LLMs vs TypeSafe Jev vs ScaleDown CDMs — Anurag (Anu) Karuparti](infographics/1792835331424.gif)
+- [ ] [8 parts every production AI agent needs — PracticAI](infographics/1793008757411.gif)
+- [ ] [Attention in LLMs — JoinAI](infographics/1793113288228.jpg)
+- [ ] [Understanding LLM Fine-Tuning — Tech with Mak](infographics/1793538952577.jpg)
+- [ ] [5 Techniques to Fine-Tune LLMs — Tech with Mak](infographics/1793948897602.jpg)
+- [ ] [Understanding MoE — @techwith_ram](infographics/1794107224080.gif)
+- [ ] [How to Write Effective Agent Skills — @bibryam](infographics/HU3O_VMWoAAkkfK.jpg)
+- [ ] [9 AI Agent Terms Everyone Must Know](infographics/HV4dR8KaAAAf2Yg.jpg)
+- [ ] [AI Architecture Patterns — A Field Guide for Builders](infographics/HV6dLKxaEAAR0Nc.jpg)
+- [ ] [Agentic AI Implementation Quick Guide — Matthew Coombs](infographics/HV8dEFJaoAA40PB.jpg)
+- [ ] [12 Ways to Make LLM Inference Faster — Dr. Rajendra Mehta (AlwithRajendra)](infographics/1793043453016.jpg)
+- [ ] [Inference Engineering — Tech with Mak](infographics/1793168252691.jpg)
+- [ ] [LLM Quantization](infographics/1793261029184.gif)
+- [ ] [Understanding GPU Cluster Orchestration](infographics/1793426530636.jpg)
+- [ ] [Prompt Caching vs. KV Caching — Louis-François Bouchard](infographics/1794229247414.gif)
+- [ ] [vLLM + llm-d: from one fast GPU to an efficient GPU fleet — archimage.io](infographics/1794915072146.jpg)
 
 ## 💪 Motivation
 
@@ -289,7 +312,7 @@ _From [interview/README.md](interview/README.md)_
 
 ## Progress
 
-**Completed 0 out of 205 items — 0%**
+**Completed 0 out of 223 items — 0%**
 
 ## Comments
 

@@ -2,9 +2,9 @@
 
 Infographics, cheat-sheet images and diagrams saved into the repo itself rather than linked to elsewhere. Click a file name to view or download it on GitHub.
 
-> ## 🖼️ 83 infographics saved so far
+> ## 🖼️ 99 infographics saved so far
 >
-> _Last added: Finetuning: 5 Techniques — Lan Chu — 2026-10-30_
+> _Last added: vLLM + llm-d: from one fast GPU to an efficient GPU fleet — archimage.io — 2026-11-19_
 
 These are files, not links, so they do **not** appear in [history.md](../history.md) and do not count toward the artifact total. Two of them are also listed in [Documents](../documents/README.md), where they were first saved.
 
@@ -65,6 +65,16 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 79 | [Reduce LLM Costs by 70% Without Hurting Quality](1793005808514.jpg) | Six levers (model routing, context engineering, prompt caching, semantic caching, agentic-loop trimming, batching) on a quality-gated reference architecture; the $10,000 → $2,926 breakdown is illustrative, not measured | 2026-10-28 |
 | 81 | [Second Brain Architecture v1.0 — persistent context management](HVpMzt1W0AA4sRQ.jpg) | Raw → wiki → retrieve/use/output → CLAUDE.md → update loop, with a raw/ wiki/ output/ ctx/ mem/ directory layout and five automations (ingest, write, manage, review, maintain) | 2026-10-28 |
 | 83 | [Finetuning: 5 Techniques — Lan Chu](1793199510353.jpg) | Hand-drawn parameter counts for a toy 800×500 weight and a 70B model: full fine-tuning (100%), LoRA (~1.2%), QLoRA (LoRA on a 4-bit base, 140 GB → 35 GB), LoRA-FA (~0.6%) and TinyLoRA (as few as 13 parameters) | 2026-10-30 |
+| 84 | [Frontier LLMs vs TypeSafe Jev vs ScaleDown CDMs — Anurag (Anu) Karuparti](1792835331424.gif) | Animated three-column comparison: a traditional LLM generates text that must be parsed, Jev answers typed questions with calibrated probabilities in one pass (70–500 ms), CDMs classify/extract/summarize in one pass over up to 1M tokens. Speed figures are vendor claims | 2026-11-19 |
+| 85 | [8 parts every production AI agent needs — PracticAI](1793008757411.gif) | Animated: eight cards — model and inference, instructions and policy, retrieval, tools, planning, memory and state, observability and evals, guardrails — all run on one refund request | 2026-11-19 |
+| 86 | [Attention in LLMs — JoinAI](1793113288228.jpg) | Worked toy example: one query against two tokens, scores through softmax to weights, a weighted sum of value vectors, causal masking, plus a NumPy snippet that reproduces the numbers | 2026-11-19 |
+| 87 | [Understanding LLM Fine-Tuning — Tech with Mak](1793538952577.jpg) | Ten-part reference: the training loop, SFT/DPO/continued pretraining, data and eval splits, the SFT loss and masking, LoRA maths, QLoRA, memory beyond weights, batch size, evaluating behaviour, shipping a reproducible model | 2026-11-19 |
+| 88 | [5 Techniques to Fine-Tune LLMs — Tech with Mak](1793948897602.jpg) | LoRA, LoRA-FA, VeRA, Delta-LoRA and LoRA+ side by side, each with trainable vs frozen parameters and the update formula. A different drawing of the same five as the Daily Dose of DS animation | 2026-11-19 |
+| 89 | [Understanding MoE — @techwith_ram](1794107224080.gif) | Animated: dense vs mixture-of-experts layers, the top-k router, where MoE sits in a transformer, total vs active parameters (Mixtral, Qwen3, DeepSeek-V3), load-balancing loss, and the catch that every expert still sits in GPU memory | 2026-11-19 |
+| 90 | [How to Write Effective Agent Skills — @bibryam](HU3O_VMWoAAkkfK.jpg) | Eight rules from Anthropic's skill-authoring guide: be concise, tune the freedom, precise discovery metadata, progressive disclosure, encode workflows, close the loop with validation, show examples, evaluate and iterate. Numbers: SKILL.md under 500 lines, references one level deep, at least 3 evals | 2026-11-19 |
+| 91 | [9 AI Agent Terms Everyone Must Know](HV4dR8KaAAAf2Yg.jpg) | Harness, memory and state, RAG, MCP, skills, guardrails, evals, A2A and multi-agent systems — a small diagram and one-line definition each | 2026-11-19 |
+| 92 | [AI Architecture Patterns — A Field Guide for Builders](HV6dLKxaEAAR0Nc.jpg) | Three levels — core LLM (prompting, RAG, fine-tuning, tool calling), workflows (chaining, routing, parallelize, reflection), agentic (ReAct, plan and execute, multi-agent, human-in-loop) — plus what makes it production-grade at every level | 2026-11-19 |
+| 93 | [Agentic AI Implementation Quick Guide — Matthew Coombs](HV8dEFJaoAA40PB.jpg) | Mind map: agent architectures, frameworks and vendor SDKs, memory types, tools and protocols, agentic RAG, build stack with example products, LLMOps and safety, a discover-build-pilot-scale roadmap and success metrics | 2026-11-19 |
 
 ## GPU / Performance
 
@@ -93,6 +103,12 @@ These are files, not links, so they do **not** appear in [history.md](../history
 | 75 | [Why Temperature 0 Isn't Deterministic in LLM Inference — Daily Dose of Data Science](1793010974944.gif) | Animated: argmax picks the top logit but logits shift between runs because fp16 addition is order-dependent, batch size changes how each sum is split across cores and other users set the batch size, and a near tie flips one token and every later one | 2026-10-27 |
 | 78 | [Why does a 7B LLM run out of GPU memory when the weights are only 14 GB?](1792867044887.jpg) | KV cache is the culprit: 10 users × 4K tokens ≈ 20 GB on top of 14 GB of weights on a 40 GB A100. Fixes: PagedAttention, GQA, KV-cache quantization, prefix caching, continuous batching | 2026-10-28 |
 | 80 | [Efficient LLM Inference: Systems, Algorithms & Production Engineering — Interview Pocket Notes — Lamhot Siagian (AI Engineering Insider)](HVmBqjYXsAAGIHo.png) | Cover image only (2nd edition, 2026); the book covers quantization, speculative decoding, KV cache, FlashAttention, vLLM, MoE, edge inference, production systems and inference-time scaling. The PDF itself is not saved here | 2026-10-28 |
+| 94 | [12 Ways to Make LLM Inference Faster — Dr. Rajendra Mehta (AlwithRajendra)](1793043453016.jpg) | Quantization, distillation, KV/prefix caching, continuous batching, speculative decoding, PagedAttention, FlashAttention, CUDA graphs, prompt reduction, model routing, parallelism, chunked prefill — plus a pick-by-bottleneck table | 2026-11-19 |
+| 95 | [Inference Engineering — Tech with Mak](1793168252691.jpg) | One-page serving reference: request flow, TTFT/ITL/TPOT/goodput, roofline view of prefill vs decode, KV cache memory formula, MHA/GQA/MQA, scheduling, optimization levers, parallelism and a fast-diagnosis table | 2026-11-19 |
+| 96 | [LLM Quantization](1793261029184.gif) | Animated: the same weights at 16-bit vs 4-bit (65,536 values vs 16 levels, q = round(w / s)); a 7B model drops from about 14 GB to 3.5 GB, with rounding error as the trade-off | 2026-11-19 |
+| 97 | [Understanding GPU Cluster Orchestration](1793426530636.jpg) | Isometric diagram: control plane (API server, scheduler, operator, GPU device plugin) over GPU worker nodes joined by NVLink and InfiniBand/RoCE, with the submit → queue → schedule → execute → monitor flow | 2026-11-19 |
+| 98 | [Prompt Caching vs. KV Caching — Louis-François Bouchard](1794229247414.gif) | Animated: KV caching saves work across tokens inside one generation (GPU VRAM, speeds decode); prompt caching saves work across API calls that share a prefix (provider cache, speeds first token) | 2026-11-19 |
+| 99 | [vLLM + llm-d: from one fast GPU to an efficient GPU fleet — archimage.io](1794915072146.jpg) | vLLM is the engine, llm-d the orchestration: inference gateway, cache- and load-aware scheduler, separate prefill and decode pools with KV transfer, and a tiered KV cache on Kubernetes | 2026-11-19 |
 
 ## Digital Verification
 

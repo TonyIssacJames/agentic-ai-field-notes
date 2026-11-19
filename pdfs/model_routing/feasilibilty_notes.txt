@@ -1,0 +1,194 @@
+The key distinction we established was:
+- Model routing: A technically credible approach with published research supporting potential cost savings.
+- Zero-shot LAYA routing: Not sufficiently validated to trust without testing.
+- Task-specific LAYA routing: Promising, but reported improvements need independent verification.
+
+===================================
+- Hackathon recommendation: Build a measurable proof of concept comparing fixed-model execution against LAYA-based model and effort routing.
+====================================
+Model/effort routing is feasible and worth pursuing. However, I would not rely on generic zero-shot LAYA for production routing. The evidence suggests we should either calibrate/fine-tune LAYA for our workload or use it only as part of a bounded POC with fallbacks.
+====================================
+
+R2-Router reports strong cost/performance improvements, so the basic idea of “don’t use the strongest model for every query” is absolutely credible
+
+============================
+For your hackathon, I would distinguish three questions:
+1. Does model routing work in principle? Yes, supported by peer-reviewed experimental research.
+2. Does reasoning-effort routing work? Yes, published experiments demonstrate savings, although results vary by workload.
+3. Will LAYA achieve similar results on your company's coding agents? That remains unverified.
+=============================
+
+“Is LAYA-based model/effort routing worth a small internal POC?”
+
+1. Freeze the research questions
+You only need answers to these five:
+1. What exactly would LAYA classify?
+   - easy / medium / hard?
+   - model A / B / C?
+   - low / medium / high effort?
+2. Is routing technically possible in our harness?
+   - can harness choose model/effort before sending request?
+3. Does LAYA have evidence that it can classify this reliably?
+   - zero-shot?
+   - fine-tuned?
+   - independent evaluation?
+4. What are the main risks?
+   - wrong routing
+   - expensive fallback
+   - quality loss
+   - context/cache issues
+   - router overhead
+5. What POC would prove/disprove usefulness internally?
+
+If a paper/search result does not help answer one of those five, put it aside.
+===============================
+
+3. Read papers in layers
+Do not read full papers initially.
+
+For each paper:
+
+5 minutes maximum:
+- abstract
+- problem statement
+- result table / headline result
+- limitations
+- conclusion
+Then write only:
+Claim:
+Evidence:
+Relevant to us? Yes/No
+Confidence: High/Medium/Low
+-------------------
+important results, 
+methods, 
+if training is done how
+What are the biggest concerns
+How we solved issues with respect to
+	- Wrong model chosen, quality loss, extra latency, fallback cost, cache/context issues, etc.
+	
+How we handle failure of model choosing, what is the impact 
+What data set was sused
+	- How it was prepared
+	
+How it compares to peer results
+
+Anything else you want to add
+----------------------
+
+
+
+
+
+-----------------
+Example:
+Claim: fine-tuned LAYA can classify routing difficulty.
+Evidence: held-out benchmark accuracy reported.
+Relevant: yes.
+Confidence: medium — author evaluation, need internal validation.
+
+===============================
+
+5. Your meeting does not require certainty
+A feasibility study is allowed to conclude:
+“Technically feasible; evidence for zero-shot LAYA is weak; targeted calibration/fine-tuning may be required; recommend POC.”
+
+===============================
+These 5:
+1. What exactly would LAYA classify?
+   Example: easy/medium/hard, or model A/B/C, or low/medium/high effort.
+2. Can our harness actually route based on that decision?
+   Meaning: can OpenCode/JEV choose a different model or reasoning effort before sending the request?
+3. How reliable is LAYA for this task?
+   What evidence exists for zero-shot vs fine-tuned/calibrated routing?
+4. What are the main risks / failure modes?
+   Wrong model chosen, quality loss, extra latency, fallback cost, cache/context issues, etc.
+5. What small POC would prove whether it helps us?
+   For example: 50 representative prompts, compare fixed strong model vs fixed cheap model vs LAYA-routed model/effort.
+   
+====================================
+Implementation feasibility looks good because OpenCode exposes model-resolution and request hooks. The main uncertainty isn't whether we can build the router; it's whether LAYA can classify our coding tasks accurately enough to make routing worthwhile. Public results for generic LAYA are mixed, while task-specific tuning appears more promising. I therefore recommend a small benchmark on our prompts comparing fixed-model execution against LAYA-routed model/effort
+====================================
+
+If any classifier can route successfully, that does not automatically prove LAYA can.
+It proves the architecture/classifier approach is feasible. LAYA still has to demonstrate sufficient accuracy, calibration, latency, and robustness on your workload.
+
+======================================
+Zero-shot LAYA model routing: weak evidence.
+Fine-tuned/calibrated LAYA routing: worth testing.
+
+There is strong evidence that adaptive reasoning routing is useful: the ICML 2026 RACER paper found that reasoning helps on harder structured-verification tasks but can add unnecessary cost on simpler ones, motivating selective reasoning
+
+============
+There is good evidence that classifier-based routing can reduce model cost while preserving quality. JEV-based harness research also shows that small decision models can control agent decisions and route work efficiently, particularly when trained on task-specific agent states and protected by confidence thresholds/fallbacks. However, zero-shot LAYA routing has weak evidence. Therefore, our main feasibility question is not whether routing is possible—it is whether a calibrated/fine-tuned LAYA classifier can achieve sufficient routing accuracy on our coding workloads
+
+==============
+Research feasibility: Established. Peer-reviewed studies demonstrate measurable model-routing benefits, and research on agent-level reasoning-effort selection demonstrates meaningful token savings.
+
+Implementation feasibility: Established. Commercial routing systems already exist, including systems for coding agents that select both models and reasoning effort.
+
+LAYA feasibility: Requires validation. Our hackathon opportunity is to determine whether LAYA can provide sufficiently accurate, low-overhead routing for our own coding workflows.
+
+
+==========
+This is important:
+For your team's POC, I would test a cheap classifier, a frontier-model classifier, and LAYA against fixed-model baselines. An offline oracle that knows each candidate's actual task outcome can also estimate the maximum possible routing benefit. That gives you a sensible upper bound before investing heavily in router training.
+
+=============
+I would lead with RouteLLM, Ares, and OpenRouter Auto Code. Together, they support the three points you need: established model-routing research, direct effort-routing experiments, and an implemented commercial system closely resembling the proposed hackathon architecture.
+
+--------------
+This is particularly relevant to your question about using a frontier model for routing. A stronger general-purpose model is not automatically a better router than a smaller model specifically trained for the routing task.
+-----------------
+ARES demonstrates that learned effort routing is feasible, but it does not consistently demonstrate that routing is more cost-effective than simply choosing a fixed Medium effort.
+
+
+
+
+Papers:
+
+LLMRouterBench
+https://arxiv.org/abs/2601.07206
+
+R2-Router: 
+https://arxiv.org/html/2602.02823
+
+Ares: 
+https://arxiv.org/html/2603.07915
+https://github.com/UCSB-NLP-Chang/Ares
+TRACE-Router:
+https://arxiv.org/html/2607.22465v2
+
+TwinRouterBench:
+https://arxiv.org/html/2605.18859v5
+
+Dynamic LLM
+https://arxiv.org/html/2610.02762v1
+
+JevAgentHarness:
+https://arxiv.org/html/2610.21412v1
+
+https://github.com/JevAgentHarness/JevAgentHarness
+
+
+Fast Models, Slow Evidence: 
+https://arxiv.org/html/2610.02267v1
+https://github.com/David-DL-Space/sys1-eval
+
+jev-for-all
+https://github.com/emirbartu/jev-for-all
+
+
+=======================================================
+https://openrouter.ai/openrouter/auto-code
+
+https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/model-router
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html
+
+https://docs.notdiamond.ai/docs/what-is-model-routing
+
+https://docs.notdiamond.ai/docs/pre-trained-router-code
+https://docs.notdiamond.ai/docs/quickstart-routing
+
+https://docs.notdiamond.ai/docs/router-training-quickstart

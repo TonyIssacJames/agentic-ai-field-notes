@@ -1,0 +1,53 @@
+- R2-Router
+- Zero-shot LAYA
+- Task-specific LAYA
+
+its typed-decisions benchmark, the fine-tuned checkpoint reaches about 0.766 accuracy, while the base LAYA checkpoint is only around 0.362. The project itself explicitly says the capability on that benchmark comes from fine-tuning
+
+
+Are the any paper that uses any kind of classifer
+to proof that Model routing/effort routing  works (best case scenario)
+
+
+
+==========================
+More importantly, this is no longer just an academic proposal. Microsoft, AWS, and OpenRouter have implemented commercial routing systems.
+==============================
+
+Note: It look like none of the above thinks about effort routing?
+	- why?
+	
+	
+
+The routing happens in server vs routing happens locally?
+does routing happens in server has any advantage?
+
+What are the benchmarks and data sets?
+
+How Training is done typically
+	- what are the challenges
+	- how to get data sets
+	
+Do we switch at task level or at prompt level?
+
+What is SFT, what is GPRO
+How complex is to do GPRO
+	- have they mentioned about h/w requirements
+	
+What is Ablation Studies mean , what is the workd ablation measn in general and in this context
+
+which harness tehy used (OpenCOde, Hermes), or did they use some custome agent for a task? and not a harness
+
+Have they mention any HW requirements for training
+
+
+What is the 
+
+If there are more than one training methods, I need to know why each method is 
+done
+how each method is done,
+what each method improves
+
+
+In ARES paper, they integrated the LLM into the benchmark agent, 
+what potential differce can happen when we do routing for OpenCOde, 

@@ -2,9 +2,9 @@
 
 Every link added to this repo gets a row here, in the order it was added — no matter which page it was filed to.
 
-> ## 📈 66 artifacts added so far
+> ## 📈 68 artifacts added so far
 >
-> _Last added: The Ultimate Guide to LLM Inference Optimization, Part 1 — Ashish Abraham — 2026-10-30_
+> _Last added: DumpAnalysis/SparkBook — 2026-11-02_
 
 ---
 
@@ -78,6 +78,8 @@ Every link added to this repo gets a row here, in the order it was added — no 
 | 64 | [CS146S: The Modern Software Developer — Stanford University (Mihail Eric)](https://themodernsoftware.dev/) | Tutorial | AI / LLM | 2026-10-27 |
 | 65 | [Building AI Agent Harnesses with Strands Agents — Amazon Web Services (Morgan Willis)](https://www.coursera.org/learn/build-ai-agents) | Course | AI / LLM | 2026-10-28 |
 | 66 | [The Ultimate Guide to LLM Inference Optimization, Part 1 — Ashish Abraham](https://pub.towardsai.net/the-ultimate-guide-to-llm-inference-optimization-part-1-71ec501c189d) | Tutorial | GPU / Performance | 2026-10-30 |
+| 67 | [I Put Several AI Agent Teams on One H100. Here Is What Broke. — Anuj Dutt](https://www.linkedin.com/pulse/i-put-several-ai-agent-teams-one-h100-here-what-broke-anuj-dutt-lnibc/) | Article | GPU / Performance | 2026-10-31 |
+| 68 | [DumpAnalysis/SparkBook](https://github.com/DumpAnalysis/SparkBook) | Repo | GPU / Performance | 2026-11-02 |
 
 ---
 
